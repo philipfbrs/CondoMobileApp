@@ -18,7 +18,7 @@ import com.example.condoapp.R;
 import com.example.condoapp.controller.LoginController;
 import com.example.condoapp.model.LoginModel;
 import com.example.condoapp.model.VolleyCallBack;
-import com.example.kloadingspin.KLoadingSpin;
+//import com.example.kloadingspin.KLoadingSpin;
 
 import org.json.JSONArray;
 import org.json.JSONObject;
@@ -50,12 +50,12 @@ public class LoginFragment extends Fragment {
         username = (EditText) view.findViewById(R.id.username);
         password = (EditText) view.findViewById(R.id.password);
         login = (Button) view.findViewById(R.id.login_btn);
-        KLoadingSpin a = view.findViewById(R.id.KLoadingSpin);
+        //KLoadingSpin a = view.findViewById(R.id.KLoadingSpin);
         login.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                a.startAnimation();
-                a.setIsVisible(true);
+//                a.startAnimation();
+//                a.setIsVisible(true);
                 login.setEnabled(false);
                 l = new LoginController();
                 RequestQueue queue = Volley.newRequestQueue(getActivity());
@@ -68,18 +68,18 @@ public class LoginFragment extends Fragment {
                             WelcomeFragment wf = new WelcomeFragment();
                             l.activity_to_fragment(0,getActivity(),wf,array);
                             login.setEnabled(true);
-                            a.stopAnimation();
+//                            a.stopAnimation();
                         }catch (Exception e){
                             Toast.makeText(getActivity(), "test", Toast.LENGTH_SHORT).show();
                             login.setEnabled(true);
-                            a.stopAnimation();
+//                            a.stopAnimation();
                         }
                     }
                     @Override
                     public void onError(VolleyError error) {
                         login.setEnabled(true);
                         Toast.makeText(getActivity(), "Login Failed: Invalid Username & Password", Toast.LENGTH_SHORT).show();
-                        a.stopAnimation();
+//                        a.stopAnimation();
                     }
                 });
 

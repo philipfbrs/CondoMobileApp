@@ -4,17 +4,17 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".fragment.login.LoginFragment">
-    <com.example.kloadingspin.KLoadingSpin
-        android:id="@+id/KLoadingSpin"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:backgroundColor="#55008DFF"
-        android:primarySpinnerColor="#ffffff"
-        android:rotationSpeedInMs="3000"
-        android:text="Searching for the best \n donut for you..."
-        android:secondarySpinnerColor="#FF9800"
-        android:textColor="#ffffff"
-        android:textSize="80dp" />
+<!--    <com.example.kloadingspin.KLoadingSpin-->
+<!--        android:id="@+id/KLoadingSpin"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="match_parent"-->
+<!--        android:backgroundColor="#55008DFF"-->
+<!--        android:primarySpinnerColor="#ffffff"-->
+<!--        android:rotationSpeedInMs="3000"-->
+<!--        android:text="Searching for the best \n donut for you..."-->
+<!--        android:secondarySpinnerColor="#FF9800"-->
+<!--        android:textColor="#ffffff"-->
+<!--        android:textSize="80dp" />-->
 
     <LinearLayout
         android:layout_width="match_parent"
