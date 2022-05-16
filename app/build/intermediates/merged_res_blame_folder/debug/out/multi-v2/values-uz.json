@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.condoapp-mergeDebugResources-28:/values-uz/values-uz.xml",
+            "outputFile": "com.example.condoapp-mergeDebugResources-27:/values-uz/values-uz.xml",
             "map": [
                 {
                     "source": "C:\\Users\\akosi\\.gradle\\caches\\transforms-3\\0f0fbf775d2f037af7b3845fb4a0fd7d\\transformed\\navigation-ui-2.3.5\\res\\values-uz\\values-uz.xml",

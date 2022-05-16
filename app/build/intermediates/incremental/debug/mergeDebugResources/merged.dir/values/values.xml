@@ -10263,16 +10263,6 @@
     <attr format="boolean" name="marginRightSystemWindowInsets"/>
     <attr format="boolean" name="marginTopSystemWindowInsets"/>
   </declare-styleable>
-    <declare-styleable name="KLoadingSpin">
-        <attr format="integer" name="rotationSpeedInMs"/>
-        <attr format="color" name="backgroundColor"/>
-        <attr format="color" name="primarySpinnerColor"/>
-        <attr format="color" name="secondarySpinnerColor"/>
-        <attr format="color" name="textColor"/>
-        <attr format="integer" name="textSize"/>
-        <attr format="string" name="text"/>
-
-    </declare-styleable>
     <declare-styleable name="KeyAttribute">
         <attr name="framePosition"/>
         <attr name="motionTarget"/>

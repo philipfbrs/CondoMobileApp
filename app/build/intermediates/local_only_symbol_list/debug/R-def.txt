@@ -27,7 +27,6 @@ drawable round_button_bg
 drawable round_plaintext_bg
 drawable round_plaintext_bg_with_stroke
 drawable side_nav_bar
-id KLoadingSpin
 id announcement
 id announcement_activity_back
 id announcement_activity_date

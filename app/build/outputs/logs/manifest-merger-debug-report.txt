@@ -5,7 +5,6 @@ INJECTED from F:\CondoApp\app\src\main\AndroidManifest.xml:2:1-47:12
 INJECTED from F:\CondoApp\app\src\main\AndroidManifest.xml:2:1-47:12
 INJECTED from F:\CondoApp\app\src\main\AndroidManifest.xml:2:1-47:12
 MERGED from [androidx.databinding:viewbinding:7.2.0] C:\Users\akosi\.gradle\caches\transforms-3\99432332ad367c6cbfd6db3a485cb3ff\transformed\viewbinding-7.2.0\AndroidManifest.xml:17:1-24:12
-MERGED from [com.github.Nikoloutsos:KLoadingSpin:1.1.0] C:\Users\akosi\.gradle\caches\transforms-3\e605dafc0825474e36f99bab36fced6d\transformed\KLoadingSpin-1.1.0\AndroidManifest.xml:2:1-11:12
 MERGED from [com.android.volley:volley:1.2.1] C:\Users\akosi\.gradle\caches\transforms-3\1c3795332269bd05ed6ed83bf24cb816\transformed\volley-1.2.1\AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.navigation:navigation-ui:2.3.5] C:\Users\akosi\.gradle\caches\transforms-3\0f0fbf775d2f037af7b3845fb4a0fd7d\transformed\navigation-ui-2.3.5\AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.android.material:material:1.6.0] C:\Users\akosi\.gradle\caches\transforms-3\1217d3aa52fa78bda9a0244b3a55003a\transformed\material-1.6.0\AndroidManifest.xml:17:1-26:12
@@ -166,8 +165,6 @@ INJECTED from F:\CondoApp\app\src\main\AndroidManifest.xml
 INJECTED from F:\CondoApp\app\src\main\AndroidManifest.xml
 MERGED from [androidx.databinding:viewbinding:7.2.0] C:\Users\akosi\.gradle\caches\transforms-3\99432332ad367c6cbfd6db3a485cb3ff\transformed\viewbinding-7.2.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.databinding:viewbinding:7.2.0] C:\Users\akosi\.gradle\caches\transforms-3\99432332ad367c6cbfd6db3a485cb3ff\transformed\viewbinding-7.2.0\AndroidManifest.xml:20:5-22:41
-MERGED from [com.github.Nikoloutsos:KLoadingSpin:1.1.0] C:\Users\akosi\.gradle\caches\transforms-3\e605dafc0825474e36f99bab36fced6d\transformed\KLoadingSpin-1.1.0\AndroidManifest.xml:7:5-9:41
-MERGED from [com.github.Nikoloutsos:KLoadingSpin:1.1.0] C:\Users\akosi\.gradle\caches\transforms-3\e605dafc0825474e36f99bab36fced6d\transformed\KLoadingSpin-1.1.0\AndroidManifest.xml:7:5-9:41
 MERGED from [com.android.volley:volley:1.2.1] C:\Users\akosi\.gradle\caches\transforms-3\1c3795332269bd05ed6ed83bf24cb816\transformed\volley-1.2.1\AndroidManifest.xml:5:5-43
 MERGED from [com.android.volley:volley:1.2.1] C:\Users\akosi\.gradle\caches\transforms-3\1c3795332269bd05ed6ed83bf24cb816\transformed\volley-1.2.1\AndroidManifest.xml:5:5-43
 MERGED from [androidx.navigation:navigation-ui:2.3.5] C:\Users\akosi\.gradle\caches\transforms-3\0f0fbf775d2f037af7b3845fb4a0fd7d\transformed\navigation-ui-2.3.5\AndroidManifest.xml:20:5-22:41

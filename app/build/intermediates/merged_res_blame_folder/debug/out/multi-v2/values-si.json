@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.condoapp-mergeDebugResources-28:/values-si/values-si.xml",
+            "outputFile": "com.example.condoapp-mergeDebugResources-27:/values-si/values-si.xml",
             "map": [
                 {
                     "source": "C:\\Users\\akosi\\.gradle\\caches\\transforms-3\\d8338c189490aee58604e111af57865f\\transformed\\core-1.7.0\\res\\values-si\\values-si.xml",

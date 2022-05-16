@@ -1,66 +1,66 @@
 [
     {
-        "merged": "com.example.condoapp-mergeDebugResources-29:/layout/fragment_dues.xml",
-        "source": "com.example.condoapp-main-32:/layout/fragment_dues.xml"
+        "merged": "com.example.condoapp-mergeDebugResources-28:/layout/activity_create_incedent_report.xml",
+        "source": "com.example.condoapp-main-31:/layout/activity_create_incedent_report.xml"
     },
     {
-        "merged": "com.example.condoapp-mergeDebugResources-29:/layout/fragment_welcome.xml",
-        "source": "com.example.condoapp-main-32:/layout/fragment_welcome.xml"
+        "merged": "com.example.condoapp-mergeDebugResources-28:/layout/activity_main.xml",
+        "source": "com.example.condoapp-main-31:/layout/activity_main.xml"
     },
     {
-        "merged": "com.example.condoapp-mergeDebugResources-29:/layout/fragment_home.xml",
-        "source": "com.example.condoapp-main-32:/layout/fragment_home.xml"
+        "merged": "com.example.condoapp-mergeDebugResources-28:/layout/activity_login.xml",
+        "source": "com.example.condoapp-main-31:/layout/activity_login.xml"
     },
     {
-        "merged": "com.example.condoapp-mergeDebugResources-29:/layout/fragment_incident_report.xml",
-        "source": "com.example.condoapp-main-32:/layout/fragment_incident_report.xml"
+        "merged": "com.example.condoapp-mergeDebugResources-28:/layout/fragment_incident_report.xml",
+        "source": "com.example.condoapp-main-31:/layout/fragment_incident_report.xml"
     },
     {
-        "merged": "com.example.condoapp-mergeDebugResources-29:/layout/content_main.xml",
-        "source": "com.example.condoapp-main-32:/layout/content_main.xml"
+        "merged": "com.example.condoapp-mergeDebugResources-28:/layout/fragment_history.xml",
+        "source": "com.example.condoapp-main-31:/layout/fragment_history.xml"
     },
     {
-        "merged": "com.example.condoapp-mergeDebugResources-29:/layout/activity_main.xml",
-        "source": "com.example.condoapp-main-32:/layout/activity_main.xml"
+        "merged": "com.example.condoapp-mergeDebugResources-28:/layout/app_bar_main.xml",
+        "source": "com.example.condoapp-main-31:/layout/app_bar_main.xml"
     },
     {
-        "merged": "com.example.condoapp-mergeDebugResources-29:/layout/dialog_incident.xml",
-        "source": "com.example.condoapp-main-32:/layout/dialog_incident.xml"
+        "merged": "com.example.condoapp-mergeDebugResources-28:/layout/activity_announcement.xml",
+        "source": "com.example.condoapp-main-31:/layout/activity_announcement.xml"
     },
     {
-        "merged": "com.example.condoapp-mergeDebugResources-29:/layout/fragment_history.xml",
-        "source": "com.example.condoapp-main-32:/layout/fragment_history.xml"
+        "merged": "com.example.condoapp-mergeDebugResources-28:/layout/fragment_dues.xml",
+        "source": "com.example.condoapp-main-31:/layout/fragment_dues.xml"
     },
     {
-        "merged": "com.example.condoapp-mergeDebugResources-29:/layout/dialog_qrcode.xml",
-        "source": "com.example.condoapp-main-32:/layout/dialog_qrcode.xml"
+        "merged": "com.example.condoapp-mergeDebugResources-28:/layout/fragment_login.xml",
+        "source": "com.example.condoapp-main-31:/layout/fragment_login.xml"
     },
     {
-        "merged": "com.example.condoapp-mergeDebugResources-29:/layout/announcement_log.xml",
-        "source": "com.example.condoapp-main-32:/layout/announcement_log.xml"
+        "merged": "com.example.condoapp-mergeDebugResources-28:/layout/fragment_home.xml",
+        "source": "com.example.condoapp-main-31:/layout/fragment_home.xml"
     },
     {
-        "merged": "com.example.condoapp-mergeDebugResources-29:/layout/activity_login.xml",
-        "source": "com.example.condoapp-main-32:/layout/activity_login.xml"
+        "merged": "com.example.condoapp-mergeDebugResources-28:/layout/nav_header_main.xml",
+        "source": "com.example.condoapp-main-31:/layout/nav_header_main.xml"
     },
     {
-        "merged": "com.example.condoapp-mergeDebugResources-29:/layout/app_bar_main.xml",
-        "source": "com.example.condoapp-main-32:/layout/app_bar_main.xml"
+        "merged": "com.example.condoapp-mergeDebugResources-28:/layout/fragment_welcome.xml",
+        "source": "com.example.condoapp-main-31:/layout/fragment_welcome.xml"
     },
     {
-        "merged": "com.example.condoapp-mergeDebugResources-29:/layout/nav_header_main.xml",
-        "source": "com.example.condoapp-main-32:/layout/nav_header_main.xml"
+        "merged": "com.example.condoapp-mergeDebugResources-28:/layout/dialog_incident.xml",
+        "source": "com.example.condoapp-main-31:/layout/dialog_incident.xml"
     },
     {
-        "merged": "com.example.condoapp-mergeDebugResources-29:/layout/activity_create_incedent_report.xml",
-        "source": "com.example.condoapp-main-32:/layout/activity_create_incedent_report.xml"
+        "merged": "com.example.condoapp-mergeDebugResources-28:/layout/announcement_log.xml",
+        "source": "com.example.condoapp-main-31:/layout/announcement_log.xml"
     },
     {
-        "merged": "com.example.condoapp-mergeDebugResources-29:/layout/activity_announcement.xml",
-        "source": "com.example.condoapp-main-32:/layout/activity_announcement.xml"
+        "merged": "com.example.condoapp-mergeDebugResources-28:/layout/content_main.xml",
+        "source": "com.example.condoapp-main-31:/layout/content_main.xml"
     },
     {
-        "merged": "com.example.condoapp-mergeDebugResources-29:/layout/fragment_login.xml",
-        "source": "com.example.condoapp-main-32:/layout/fragment_login.xml"
+        "merged": "com.example.condoapp-mergeDebugResources-28:/layout/dialog_qrcode.xml",
+        "source": "com.example.condoapp-main-31:/layout/dialog_qrcode.xml"
     }
 ]
