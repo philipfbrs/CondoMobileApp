@@ -39,14 +39,13 @@ public class Announcement extends AppCompatActivity {
             for (int i = 0; i < ac.getDataPassed().length; i++) {
                 getPassedData[i] = extras.getString(ac.getDataPassed()[i]);
             }
-            String date = extras.getString("announcement_date");
             title_tv = (TextView) findViewById(R.id.announcement_activity_header);
             message_tv = (TextView) findViewById(R.id.announcement_activity_message);
             date_tv = (TextView) findViewById(R.id.announcement_activity_date);
             back = (Button) findViewById(R.id.announcement_activity_back);
             title_tv.setText(extras.getString("announcement_title"));
             message_tv.setText(extras.getString("announcement_message"));
-            date_tv.setText(date);
+            date_tv.setText(extras.getString("announcement_date"));
         } catch (Exception e) {
 
         }

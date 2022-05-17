@@ -1,70 +1,90 @@
 [
     {
-        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-mergeDebugResources-33:\\layout\\dialog_incident.xml",
-        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-main-36:\\layout\\dialog_incident.xml"
+        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-mergeDebugResources-34:\\layout\\announcement_log.xml",
+        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-main-37:\\layout\\announcement_log.xml"
     },
     {
-        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-mergeDebugResources-33:\\layout\\activity_login.xml",
-        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-main-36:\\layout\\activity_login.xml"
+        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-mergeDebugResources-34:\\layout\\content_main.xml",
+        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-main-37:\\layout\\content_main.xml"
     },
     {
-        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-mergeDebugResources-33:\\layout\\app_bar_main.xml",
-        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-main-36:\\layout\\app_bar_main.xml"
+        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-mergeDebugResources-34:\\layout\\dialog_qrcode.xml",
+        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-main-37:\\layout\\dialog_qrcode.xml"
     },
     {
-        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-mergeDebugResources-33:\\layout\\nav_header_main.xml",
-        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-main-36:\\layout\\nav_header_main.xml"
+        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-mergeDebugResources-34:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-main-37:\\layout\\activity_main.xml"
     },
     {
-        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-mergeDebugResources-33:\\layout\\fragment_dues.xml",
-        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-main-36:\\layout\\fragment_dues.xml"
+        "merged": "com.example.condoapp-mergeDebugResources-34:/layout/activity_create_incedent_report.xml",
+        "source": "com.example.condoapp-main-37:/layout/activity_create_incedent_report.xml"
     },
     {
-        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-mergeDebugResources-33:\\layout\\content_main.xml",
-        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-main-36:\\layout\\content_main.xml"
+        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-mergeDebugResources-34:\\layout\\nav_header_main.xml",
+        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-main-37:\\layout\\nav_header_main.xml"
     },
     {
-        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-mergeDebugResources-33:\\layout\\fragment_incident_report.xml",
-        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-main-36:\\layout\\fragment_incident_report.xml"
+        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-mergeDebugResources-34:\\layout\\fragment_login.xml",
+        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-main-37:\\layout\\fragment_login.xml"
     },
     {
-        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-mergeDebugResources-33:\\layout\\fragment_login.xml",
-        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-main-36:\\layout\\fragment_login.xml"
+        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-mergeDebugResources-34:\\layout\\fragment_history.xml",
+        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-main-37:\\layout\\fragment_history.xml"
     },
     {
-        "merged": "com.example.condoapp-mergeDebugResources-33:/layout/nav_header_main.xml",
-        "source": "com.example.condoapp-main-36:/layout/nav_header_main.xml"
+        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-mergeDebugResources-34:\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-main-37:\\layout\\fragment_home.xml"
     },
     {
-        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-mergeDebugResources-33:\\layout\\activity_create_incedent_report.xml",
-        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-main-36:\\layout\\activity_create_incedent_report.xml"
+        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-mergeDebugResources-34:\\layout\\fragment_incident_report.xml",
+        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-main-37:\\layout\\fragment_incident_report.xml"
     },
     {
-        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-mergeDebugResources-33:\\layout\\dialog_qrcode.xml",
-        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-main-36:\\layout\\dialog_qrcode.xml"
+        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-mergeDebugResources-34:\\layout\\activity_announcement.xml",
+        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-main-37:\\layout\\activity_announcement.xml"
     },
     {
-        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-mergeDebugResources-33:\\layout\\fragment_history.xml",
-        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-main-36:\\layout\\fragment_history.xml"
+        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-mergeDebugResources-34:\\layout\\fragment_welcome.xml",
+        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-main-37:\\layout\\fragment_welcome.xml"
     },
     {
-        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-mergeDebugResources-33:\\layout\\activity_main.xml",
-        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-main-36:\\layout\\activity_main.xml"
+        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-mergeDebugResources-34:\\layout\\app_bar_main.xml",
+        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-main-37:\\layout\\app_bar_main.xml"
     },
     {
-        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-mergeDebugResources-33:\\layout\\announcement_log.xml",
-        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-main-36:\\layout\\announcement_log.xml"
+        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-mergeDebugResources-34:\\layout\\activity_login.xml",
+        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-main-37:\\layout\\activity_login.xml"
     },
     {
-        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-mergeDebugResources-33:\\layout\\fragment_welcome.xml",
-        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-main-36:\\layout\\fragment_welcome.xml"
+        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-mergeDebugResources-34:\\layout\\fragment_incident_report_1_.xml",
+        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-main-37:\\layout\\fragment_incident_report_1_.xml"
     },
     {
-        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-mergeDebugResources-33:\\layout\\fragment_home.xml",
-        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-main-36:\\layout\\fragment_home.xml"
+        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-mergeDebugResources-34:\\layout\\activity_incident_report.xml",
+        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-main-37:\\layout\\activity_incident_report.xml"
     },
     {
-        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-mergeDebugResources-33:\\layout\\activity_announcement.xml",
-        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-main-36:\\layout\\activity_announcement.xml"
+        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-mergeDebugResources-34:\\layout\\dialog_incident.xml",
+        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-main-37:\\layout\\dialog_incident.xml"
+    },
+    {
+        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-mergeDebugResources-34:\\layout\\fragment_dues.xml",
+        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-main-37:\\layout\\fragment_dues.xml"
+    },
+    {
+        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-mergeDebugResources-34:\\layout\\incident_report_items.xml",
+        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-main-37:\\layout\\incident_report_items.xml"
+    },
+    {
+        "merged": "com.example.condoapp-mergeDebugResources-34:/layout/dialog_incident.xml",
+        "source": "com.example.condoapp-main-37:/layout/dialog_incident.xml"
+    },
+    {
+        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-mergeDebugResources-34:\\layout\\activity_create_incedent_report.xml",
+        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-main-37:\\layout\\activity_create_incedent_report.xml"
+    },
+    {
+        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-mergeDebugResources-34:\\layout\\fragment_incident_report_2_.xml",
+        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-main-37:\\layout\\fragment_incident_report_2_.xml"
     }
 ]

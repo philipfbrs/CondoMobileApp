@@ -7,21 +7,26 @@ import com.android.volley.Request;
 import com.android.volley.RequestQueue;
 import com.android.volley.Response;
 import com.android.volley.VolleyError;
+import com.android.volley.VolleyLog;
 import com.android.volley.toolbox.StringRequest;
 
 import org.json.JSONObject;
 
+import java.io.UnsupportedEncodingException;
 import java.util.HashMap;
 import java.util.Map;
 
 public class IncidentReportModel {
     String url3 = "https://condo-ms-api.herokuapp.com/v1/incidentReport/me";
-    String token,key;
+    String url = "https://condo-ms-api.herokuapp.com/v1/incidentReport";
+    String token,key,title,message;
     RequestQueue queue;
-    public IncidentReportModel(String token,String key,RequestQueue queue){
+    public IncidentReportModel(String token,String key,RequestQueue queue,String title,String message){
         this.token = "Bearer" + " " +token;
         this.key = key;
         this.queue = queue;
+        this.title = title;
+        this.message = message;
     }
 
     public void incidentReportData(final VolleyCallBack callBack) {
@@ -47,6 +52,58 @@ public class IncidentReportModel {
                 }
 
             };
+            queue.add(request);
+
+        } catch (Exception e) {
+
+        }
+    }
+
+    public void createIncidentReport(final VolleyCallBack callBack) {
+
+        try {
+            JSONObject jsonBody = new JSONObject();
+            jsonBody.put("title", title);
+            jsonBody.put("message", message);
+            final String requestBody = jsonBody.toString();
+            StringRequest request = new StringRequest(Request.Method.POST, url, new Response.Listener<String>() {
+                @Override
+                public void onResponse(String response) {
+                    callBack.onSuccess(response);
+                }
+            }, new Response.ErrorListener() {
+                @Override
+                public void onErrorResponse(VolleyError error) {
+                    callBack.onError(error);
+                }
+            }) {
+                @Override
+                public Map<String, String> getHeaders() throws AuthFailureError {
+                    Map<String, String> params = new HashMap<String, String>();
+                    params.put("x-api-key", key);
+                    params.put("user-token", token);
+                    return params;
+                }
+
+                @Override
+                public String getBodyContentType() {
+                    return "application/json; charset=utf-8";
+                }
+
+                @Override
+                public byte[] getBody() throws AuthFailureError {
+                    try {
+
+                        return requestBody == null ? null : requestBody.getBytes("utf-8");
+                    } catch (UnsupportedEncodingException uee) {
+                        VolleyLog.wtf("Unsupported Encoding while trying to get the bytes of %s using %s", requestBody, "utf-8");
+                        return null;
+                    }
+                }
+
+            };
+
+
             queue.add(request);
 
         } catch (Exception e) {

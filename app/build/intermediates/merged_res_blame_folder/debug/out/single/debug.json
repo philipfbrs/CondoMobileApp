@@ -1,218 +1,246 @@
 [
     {
-        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-merged_res-34:\\drawable_ic_baseline_close_24.xml.flat",
-        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-main-36:\\drawable\\ic_baseline_close_24.xml"
+        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-merged_res-35:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-main-37:\\xml\\backup_rules.xml"
     },
     {
-        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-merged_res-34:\\layout_fragment_dues.xml.flat",
-        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-main-36:\\layout\\fragment_dues.xml"
+        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-merged_res-35:\\drawable_side_nav_bar.xml.flat",
+        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-main-37:\\drawable\\side_nav_bar.xml"
     },
     {
-        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-merged_res-34:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-main-36:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-merged_res-35:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-main-37:\\layout\\activity_main.xml"
     },
     {
-        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-merged_res-34:\\mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-main-36:\\mipmap-mdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-merged_res-35:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-main-37:\\mipmap-xxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-merged_res-34:\\layout_activity_create_incedent_report.xml.flat",
-        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-main-36:\\layout\\activity_create_incedent_report.xml"
+        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-merged_res-35:\\layout_fragment_incident_report_1_.xml.flat",
+        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-main-37:\\layout\\fragment_incident_report_1_.xml"
     },
     {
-        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-merged_res-34:\\drawable_side_nav_bar.xml.flat",
-        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-main-36:\\drawable\\side_nav_bar.xml"
+        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-merged_res-35:\\drawable-xxxhdpi_ic_baseline_fact_check_24.png.flat",
+        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-pngs-30:\\drawable-xxxhdpi\\ic_baseline_fact_check_24.png"
     },
     {
-        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-merged_res-34:\\layout_fragment_home.xml.flat",
-        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-main-36:\\layout\\fragment_home.xml"
+        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-merged_res-35:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-main-37:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-merged_res-34:\\drawable_ic_baseline_access_time_filled_24.xml.flat",
-        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-main-36:\\drawable\\ic_baseline_access_time_filled_24.xml"
+        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-merged_res-35:\\drawable_round_plaintext_bg_with_stroke.xml.flat",
+        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-main-37:\\drawable\\round_plaintext_bg_with_stroke.xml"
     },
     {
-        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-merged_res-34:\\drawable-xhdpi_ic_baseline_fact_check_24.png.flat",
-        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-pngs-29:\\drawable-xhdpi\\ic_baseline_fact_check_24.png"
+        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-merged_res-35:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-main-37:\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-merged_res-34:\\navigation_mobile_navigation.xml.flat",
-        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-main-36:\\navigation\\mobile_navigation.xml"
+        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-merged_res-35:\\layout_fragment_incident_report.xml.flat",
+        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-main-37:\\layout\\fragment_incident_report.xml"
     },
     {
-        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-merged_res-34:\\xml_data_extraction_rules.xml.flat",
-        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-main-36:\\xml\\data_extraction_rules.xml"
+        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-merged_res-35:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-main-37:\\mipmap-xxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-merged_res-34:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
-        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-pngs-29:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-merged_res-35:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-main-37:\\mipmap-xxxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-merged_res-34:\\layout_fragment_welcome.xml.flat",
-        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-main-36:\\layout\\fragment_welcome.xml"
+        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-merged_res-35:\\drawable_ic_baseline_access_time_filled_24.xml.flat",
+        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-main-37:\\drawable\\ic_baseline_access_time_filled_24.xml"
     },
     {
-        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-merged_res-34:\\layout_nav_header_main.xml.flat",
-        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-main-36:\\layout\\nav_header_main.xml"
+        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-merged_res-35:\\drawable_round_plaintext_bg.xml.flat",
+        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-main-37:\\drawable\\round_plaintext_bg.xml"
     },
     {
-        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-merged_res-34:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-main-36:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-merged_res-35:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-main-37:\\mipmap-hdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-merged_res-34:\\drawable_round_plaintext_bg_with_stroke.xml.flat",
-        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-main-36:\\drawable\\round_plaintext_bg_with_stroke.xml"
+        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-merged_res-35:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-pngs-30:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-merged_res-34:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-main-36:\\mipmap-xxxhdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-merged_res-35:\\drawable_ic_menu_gallery.xml.flat",
+        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-main-37:\\drawable\\ic_menu_gallery.xml"
     },
     {
-        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-merged_res-34:\\drawable_ic_baseline_qr_code_24.xml.flat",
-        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-main-36:\\drawable\\ic_baseline_qr_code_24.xml"
+        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-merged_res-35:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-main-37:\\mipmap-hdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-merged_res-34:\\drawable-mdpi_ic_baseline_fact_check_24.png.flat",
-        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-pngs-29:\\drawable-mdpi\\ic_baseline_fact_check_24.png"
+        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-merged_res-35:\\layout_activity_incident_report.xml.flat",
+        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-main-37:\\layout\\activity_incident_report.xml"
     },
     {
-        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-merged_res-34:\\drawable-xxxhdpi_ic_baseline_fact_check_24.png.flat",
-        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-pngs-29:\\drawable-xxxhdpi\\ic_baseline_fact_check_24.png"
+        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-merged_res-35:\\drawable_ic_menu_camera.xml.flat",
+        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-main-37:\\drawable\\ic_menu_camera.xml"
     },
     {
-        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-merged_res-34:\\menu_activity_main_drawer.xml.flat",
-        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-main-36:\\menu\\activity_main_drawer.xml"
+        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-merged_res-35:\\drawable_ic_baseline_arrow_back_ios_24.xml.flat",
+        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-main-37:\\drawable\\ic_baseline_arrow_back_ios_24.xml"
     },
     {
-        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-merged_res-34:\\layout_dialog_qrcode.xml.flat",
-        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-main-36:\\layout\\dialog_qrcode.xml"
+        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-merged_res-35:\\drawable_ic_baseline_content_paste_24.xml.flat",
+        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-main-37:\\drawable\\ic_baseline_content_paste_24.xml"
     },
     {
-        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-merged_res-34:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-main-36:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-merged_res-35:\\menu_activity_main_drawer.xml.flat",
+        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-main-37:\\menu\\activity_main_drawer.xml"
     },
     {
-        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-merged_res-34:\\drawable_round_plaintext_bg.xml.flat",
-        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-main-36:\\drawable\\round_plaintext_bg.xml"
+        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-merged_res-35:\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-main-37:\\layout\\fragment_home.xml"
     },
     {
-        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-merged_res-34:\\drawable-xxhdpi_ic_baseline_fact_check_24.png.flat",
-        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-pngs-29:\\drawable-xxhdpi\\ic_baseline_fact_check_24.png"
+        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-merged_res-35:\\layout_activity_announcement.xml.flat",
+        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-main-37:\\layout\\activity_announcement.xml"
     },
     {
-        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-merged_res-34:\\mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-main-36:\\mipmap-hdpi\\ic_launcher_round.webp"
+        "merged": "com.example.condoapp-merged_res-35:/layout_activity_create_incedent_report.xml.flat",
+        "source": "com.example.condoapp-main-37:/layout/activity_create_incedent_report.xml"
     },
     {
-        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-merged_res-34:\\drawable_ic_menu_slideshow.xml.flat",
-        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-main-36:\\drawable\\ic_menu_slideshow.xml"
+        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-merged_res-35:\\layout_fragment_incident_report_2_.xml.flat",
+        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-main-37:\\layout\\fragment_incident_report_2_.xml"
     },
     {
-        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-merged_res-34:\\drawable_ic_menu_gallery.xml.flat",
-        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-main-36:\\drawable\\ic_menu_gallery.xml"
+        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-merged_res-35:\\layout_activity_create_incedent_report.xml.flat",
+        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-main-37:\\layout\\activity_create_incedent_report.xml"
     },
     {
-        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-merged_res-34:\\mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-main-36:\\mipmap-xhdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-merged_res-35:\\layout_content_main.xml.flat",
+        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-main-37:\\layout\\content_main.xml"
     },
     {
-        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-merged_res-34:\\drawable_ic_baseline_arrow_back_ios_24.xml.flat",
-        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-main-36:\\drawable\\ic_baseline_arrow_back_ios_24.xml"
+        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-merged_res-35:\\drawable_round_button_bg.xml.flat",
+        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-main-37:\\drawable\\round_button_bg.xml"
     },
     {
-        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-merged_res-34:\\mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-main-36:\\mipmap-xxhdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-merged_res-35:\\layout_fragment_welcome.xml.flat",
+        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-main-37:\\layout\\fragment_welcome.xml"
     },
     {
-        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-merged_res-34:\\xml_backup_rules.xml.flat",
-        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-main-36:\\xml\\backup_rules.xml"
+        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-merged_res-35:\\layout_dialog_qrcode.xml.flat",
+        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-main-37:\\layout\\dialog_qrcode.xml"
     },
     {
-        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-merged_res-34:\\layout_fragment_login.xml.flat",
-        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-main-36:\\layout\\fragment_login.xml"
+        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-merged_res-35:\\layout_nav_header_main.xml.flat",
+        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-main-37:\\layout\\nav_header_main.xml"
     },
     {
-        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-merged_res-34:\\drawable-ldpi_ic_baseline_fact_check_24.png.flat",
-        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-pngs-29:\\drawable-ldpi\\ic_baseline_fact_check_24.png"
+        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-merged_res-35:\\drawable_ic_baseline_close_24.xml.flat",
+        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-main-37:\\drawable\\ic_baseline_close_24.xml"
     },
     {
-        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-merged_res-34:\\layout_app_bar_main.xml.flat",
-        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-main-36:\\layout\\app_bar_main.xml"
+        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-merged_res-35:\\drawable_round_incident_item_bg.xml.flat",
+        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-main-37:\\drawable\\round_incident_item_bg.xml"
     },
     {
-        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-merged_res-34:\\drawable_ic_menu_camera.xml.flat",
-        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-main-36:\\drawable\\ic_menu_camera.xml"
+        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-merged_res-35:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-main-37:\\xml\\data_extraction_rules.xml"
     },
     {
-        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-merged_res-34:\\drawable-hdpi_ic_baseline_fact_check_24.png.flat",
-        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-pngs-29:\\drawable-hdpi\\ic_baseline_fact_check_24.png"
+        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-merged_res-35:\\drawable_border_bottom_item_incident_item.xml.flat",
+        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-main-37:\\drawable\\border_bottom_item_incident_item.xml"
     },
     {
-        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-merged_res-34:\\layout_announcement_log.xml.flat",
-        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-main-36:\\layout\\announcement_log.xml"
+        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-merged_res-35:\\layout_fragment_login.xml.flat",
+        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-main-37:\\layout\\fragment_login.xml"
     },
     {
-        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-merged_res-34:\\layout_activity_announcement.xml.flat",
-        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-main-36:\\layout\\activity_announcement.xml"
+        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-merged_res-35:\\drawable-anydpi-v24_ic_baseline_fact_check_24.xml.flat",
+        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-pngs-30:\\drawable-anydpi-v24\\ic_baseline_fact_check_24.xml"
     },
     {
-        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-merged_res-34:\\layout_activity_login.xml.flat",
-        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-main-36:\\layout\\activity_login.xml"
+        "merged": "com.example.condoapp-merged_res-35:/layout_dialog_incident.xml.flat",
+        "source": "com.example.condoapp-main-37:/layout/dialog_incident.xml"
     },
     {
-        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-merged_res-34:\\drawable-anydpi-v24_ic_baseline_fact_check_24.xml.flat",
-        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-pngs-29:\\drawable-anydpi-v24\\ic_baseline_fact_check_24.xml"
+        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-merged_res-35:\\drawable-hdpi_ic_baseline_fact_check_24.png.flat",
+        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-pngs-30:\\drawable-hdpi\\ic_baseline_fact_check_24.png"
     },
     {
-        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-merged_res-34:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-main-36:\\mipmap-anydpi-v26\\ic_launcher.xml"
+        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-merged_res-35:\\layout_dialog_incident.xml.flat",
+        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-main-37:\\layout\\dialog_incident.xml"
     },
     {
-        "merged": "com.example.condoapp-merged_res-34:/layout_nav_header_main.xml.flat",
-        "source": "com.example.condoapp-main-36:/layout/nav_header_main.xml"
+        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-merged_res-35:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-main-37:\\layout\\activity_login.xml"
     },
     {
-        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-merged_res-34:\\layout_fragment_incident_report.xml.flat",
-        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-main-36:\\layout\\fragment_incident_report.xml"
+        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-merged_res-35:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-main-37:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-merged_res-34:\\mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-main-36:\\mipmap-mdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-merged_res-35:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-main-37:\\mipmap-xhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-merged_res-34:\\mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-main-36:\\mipmap-hdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-merged_res-35:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-main-37:\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
-        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-merged_res-34:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-main-36:\\mipmap-xhdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-merged_res-35:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-main-37:\\mipmap-mdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-merged_res-34:\\drawable_ic_launcher_background.xml.flat",
-        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-main-36:\\drawable\\ic_launcher_background.xml"
+        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-merged_res-35:\\layout_app_bar_main.xml.flat",
+        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-main-37:\\layout\\app_bar_main.xml"
     },
     {
-        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-merged_res-34:\\layout_activity_main.xml.flat",
-        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-main-36:\\layout\\activity_main.xml"
+        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-merged_res-35:\\layout_incident_report_items.xml.flat",
+        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-main-37:\\layout\\incident_report_items.xml"
     },
     {
-        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-merged_res-34:\\layout_content_main.xml.flat",
-        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-main-36:\\layout\\content_main.xml"
+        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-merged_res-35:\\drawable-xhdpi_ic_baseline_fact_check_24.png.flat",
+        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-pngs-30:\\drawable-xhdpi\\ic_baseline_fact_check_24.png"
     },
     {
-        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-merged_res-34:\\layout_fragment_history.xml.flat",
-        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-main-36:\\layout\\fragment_history.xml"
+        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-merged_res-35:\\layout_fragment_dues.xml.flat",
+        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-main-37:\\layout\\fragment_dues.xml"
     },
     {
-        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-merged_res-34:\\drawable_round_button_bg.xml.flat",
-        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-main-36:\\drawable\\round_button_bg.xml"
+        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-merged_res-35:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-main-37:\\mipmap-mdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-merged_res-34:\\drawable_ic_baseline_content_paste_24.xml.flat",
-        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-main-36:\\drawable\\ic_baseline_content_paste_24.xml"
+        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-merged_res-35:\\layout_fragment_history.xml.flat",
+        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-main-37:\\layout\\fragment_history.xml"
     },
     {
-        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-merged_res-34:\\layout_dialog_incident.xml.flat",
-        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-main-36:\\layout\\dialog_incident.xml"
+        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-merged_res-35:\\drawable-xxhdpi_ic_baseline_fact_check_24.png.flat",
+        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-pngs-30:\\drawable-xxhdpi\\ic_baseline_fact_check_24.png"
+    },
+    {
+        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-merged_res-35:\\drawable-ldpi_ic_baseline_fact_check_24.png.flat",
+        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-pngs-30:\\drawable-ldpi\\ic_baseline_fact_check_24.png"
+    },
+    {
+        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-merged_res-35:\\drawable-mdpi_ic_baseline_fact_check_24.png.flat",
+        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-pngs-30:\\drawable-mdpi\\ic_baseline_fact_check_24.png"
+    },
+    {
+        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-merged_res-35:\\drawable_ic_baseline_qr_code_24.xml.flat",
+        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-main-37:\\drawable\\ic_baseline_qr_code_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-merged_res-35:\\drawable_ic_menu_slideshow.xml.flat",
+        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-main-37:\\drawable\\ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-merged_res-35:\\layout_announcement_log.xml.flat",
+        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-main-37:\\layout\\announcement_log.xml"
+    },
+    {
+        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-merged_res-35:\\navigation_mobile_navigation.xml.flat",
+        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-main-37:\\navigation\\mobile_navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-merged_res-35:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\akosi\\.gradle\\daemon\\7.3.3\\com.example.condoapp-main-37:\\mipmap-xhdpi\\ic_launcher.webp"
     }
 ]

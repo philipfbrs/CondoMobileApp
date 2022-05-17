@@ -60,7 +60,7 @@
             android:textSize="20sp" />
 
         <EditText
-            android:id="@+id/editTextTextPersonName1"
+            android:id="@+id/cinr_title"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:background="@drawable/round_plaintext_bg_with_stroke"
@@ -90,7 +90,7 @@
             android:textSize="20sp" />
 
         <EditText
-            android:id="@+id/editTextTextPersonName"
+            android:id="@+id/cinr_message"
             android:layout_width="match_parent"
             android:layout_height="220dp"
             android:background="@drawable/round_plaintext_bg_with_stroke"

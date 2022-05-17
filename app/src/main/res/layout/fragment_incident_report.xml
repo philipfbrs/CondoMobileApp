@@ -4,7 +4,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context=".fragment.main.IncidentReportFragment">
+    tools:context=".fragment.IncidentReport.IncidentReportFragment">
 
     <com.simform.refresh.SSPullToRefreshLayout
         android:id="@+id/ssRefreshIncident"

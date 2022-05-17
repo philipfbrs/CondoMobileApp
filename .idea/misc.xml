@@ -3,8 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/CondoApp/app/src/main/res/drawable/border_bottom_item_incident_item.xml" value="0.1" />
+        <entry key="..\:/CondoApp/app/src/main/res/drawable/round_incident_item_bg.xml" value="0.1" />
         <entry key="..\:/CondoApp/app/src/main/res/layout/activity_announcement.xml" value="0.15989739204788372" />
         <entry key="..\:/CondoApp/app/src/main/res/layout/activity_create_incedent_report.xml" value="0.16" />
+        <entry key="..\:/CondoApp/app/src/main/res/layout/activity_incident_report.xml" value="0.1005014625992478" />
         <entry key="..\:/CondoApp/app/src/main/res/layout/activity_login.xml" value="0.1" />
         <entry key="..\:/CondoApp/app/src/main/res/layout/activity_main.xml" value="0.14515027322404372" />
         <entry key="..\:/CondoApp/app/src/main/res/layout/announcement_log.xml" value="0.14515027322404372" />
@@ -16,8 +19,11 @@
         <entry key="..\:/CondoApp/app/src/main/res/layout/fragment_history.xml" value="0.1" />
         <entry key="..\:/CondoApp/app/src/main/res/layout/fragment_home.xml" value="0.1" />
         <entry key="..\:/CondoApp/app/src/main/res/layout/fragment_incident_report.xml" value="0.176" />
+        <entry key="..\:/CondoApp/app/src/main/res/layout/fragment_incident_report_1_.xml" value="0.23017902813299232" />
+        <entry key="..\:/CondoApp/app/src/main/res/layout/fragment_incident_report_2_.xml" value="0.1005014625992478" />
         <entry key="..\:/CondoApp/app/src/main/res/layout/fragment_login.xml" value="0.1" />
         <entry key="..\:/CondoApp/app/src/main/res/layout/fragment_welcome.xml" value="0.1" />
+        <entry key="..\:/CondoApp/app/src/main/res/layout/incident_report_items.xml" value="0.176" />
         <entry key="..\:/CondoApp/app/src/main/res/layout/nav_header_main.xml" value="0.128" />
         <entry key="..\:/CondoApp/app/src/main/res/menu/activity_main_drawer.xml" value="0.1" />
         <entry key="..\:/Users/akosi/AndroidStudioProjects/CondoApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.236" />

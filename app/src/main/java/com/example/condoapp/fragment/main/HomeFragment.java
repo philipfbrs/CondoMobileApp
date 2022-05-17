@@ -162,7 +162,6 @@ public class HomeFragment extends Fragment {
                 Announcement add = new Announcement(jsonObject.getString("id"), jsonObject.getString("title"), jsonObject.getString("message"), jsonObject.getString("createdAt"));
                 announcementArrayList.add(add);
             }
-            Collections.reverse(announcementArrayList);
         } catch (Exception e) {
 
         }

@@ -28,10 +28,10 @@ public final class DialogIncidentBinding implements ViewBinding {
   public final TextView announcementActivityMessage;
 
   @NonNull
-  public final EditText editTextTextPersonName;
+  public final EditText cinrMessage;
 
   @NonNull
-  public final EditText editTextTextPersonName1;
+  public final EditText cinrTitle;
 
   @NonNull
   public final Button submitBtnCreateIncidentReport;
@@ -41,13 +41,13 @@ public final class DialogIncidentBinding implements ViewBinding {
 
   private DialogIncidentBinding(@NonNull LinearLayout rootView,
       @NonNull TextView announcementActivityHeader, @NonNull TextView announcementActivityMessage,
-      @NonNull EditText editTextTextPersonName, @NonNull EditText editTextTextPersonName1,
+      @NonNull EditText cinrMessage, @NonNull EditText cinrTitle,
       @NonNull Button submitBtnCreateIncidentReport, @NonNull TextView textView5) {
     this.rootView = rootView;
     this.announcementActivityHeader = announcementActivityHeader;
     this.announcementActivityMessage = announcementActivityMessage;
-    this.editTextTextPersonName = editTextTextPersonName;
-    this.editTextTextPersonName1 = editTextTextPersonName1;
+    this.cinrMessage = cinrMessage;
+    this.cinrTitle = cinrTitle;
     this.submitBtnCreateIncidentReport = submitBtnCreateIncidentReport;
     this.textView5 = textView5;
   }
@@ -91,15 +91,15 @@ public final class DialogIncidentBinding implements ViewBinding {
         break missingId;
       }
 
-      id = R.id.editTextTextPersonName;
-      EditText editTextTextPersonName = ViewBindings.findChildViewById(rootView, id);
-      if (editTextTextPersonName == null) {
+      id = R.id.cinr_message;
+      EditText cinrMessage = ViewBindings.findChildViewById(rootView, id);
+      if (cinrMessage == null) {
         break missingId;
       }
 
-      id = R.id.editTextTextPersonName1;
-      EditText editTextTextPersonName1 = ViewBindings.findChildViewById(rootView, id);
-      if (editTextTextPersonName1 == null) {
+      id = R.id.cinr_title;
+      EditText cinrTitle = ViewBindings.findChildViewById(rootView, id);
+      if (cinrTitle == null) {
         break missingId;
       }
 
@@ -116,8 +116,8 @@ public final class DialogIncidentBinding implements ViewBinding {
       }
 
       return new DialogIncidentBinding((LinearLayout) rootView, announcementActivityHeader,
-          announcementActivityMessage, editTextTextPersonName, editTextTextPersonName1,
-          submitBtnCreateIncidentReport, textView5);
+          announcementActivityMessage, cinrMessage, cinrTitle, submitBtnCreateIncidentReport,
+          textView5);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

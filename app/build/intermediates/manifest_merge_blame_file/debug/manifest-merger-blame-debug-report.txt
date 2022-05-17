@@ -15,7 +15,7 @@
 11-->F:\CondoApp\app\src\main\AndroidManifest.xml:6:22-64
 12
 13    <application
-13-->F:\CondoApp\app\src\main\AndroidManifest.xml:8:5-45:19
+13-->F:\CondoApp\app\src\main\AndroidManifest.xml:8:5-47:19
 14        android:allowBackup="true"
 14-->F:\CondoApp\app\src\main\AndroidManifest.xml:9:9-35
 15        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
@@ -33,81 +33,88 @@
 21-->F:\CondoApp\app\src\main\AndroidManifest.xml:14:9-54
 22        android:supportsRtl="true"
 22-->F:\CondoApp\app\src\main\AndroidManifest.xml:15:9-35
-23        android:testOnly="true"
-24        android:theme="@style/Theme.CondoApp"
-24-->F:\CondoApp\app\src\main\AndroidManifest.xml:16:9-46
-25        android:usesCleartextTraffic="true" >
-25-->F:\CondoApp\app\src\main\AndroidManifest.xml:17:9-44
-26        <activity
-26-->F:\CondoApp\app\src\main\AndroidManifest.xml:19:9-22:51
-27            android:name="com.example.condoapp.activity.Announcement"
-27-->F:\CondoApp\app\src\main\AndroidManifest.xml:20:13-50
-28            android:exported="false"
-28-->F:\CondoApp\app\src\main\AndroidManifest.xml:21:13-37
-29            android:screenOrientation="portrait" />
-29-->F:\CondoApp\app\src\main\AndroidManifest.xml:22:13-49
+23        android:theme="@style/Theme.CondoApp"
+23-->F:\CondoApp\app\src\main\AndroidManifest.xml:16:9-46
+24        android:usesCleartextTraffic="true" >
+24-->F:\CondoApp\app\src\main\AndroidManifest.xml:17:9-44
+25        <activity
+25-->F:\CondoApp\app\src\main\AndroidManifest.xml:19:9-23:20
+26            android:name="com.example.condoapp.activity.IncidentReportActivity"
+26-->F:\CondoApp\app\src\main\AndroidManifest.xml:20:13-60
+27            android:exported="true"
+27-->F:\CondoApp\app\src\main\AndroidManifest.xml:21:13-36
+28            android:screenOrientation="portrait" >
+28-->F:\CondoApp\app\src\main\AndroidManifest.xml:22:13-49
+29        </activity>
 30        <activity
-30-->F:\CondoApp\app\src\main\AndroidManifest.xml:23:9-26:51
-31            android:name="com.example.condoapp.activity.CreateIncedentReport"
-31-->F:\CondoApp\app\src\main\AndroidManifest.xml:24:13-58
+30-->F:\CondoApp\app\src\main\AndroidManifest.xml:24:9-27:52
+31            android:name="com.example.condoapp.activity.Announcement"
+31-->F:\CondoApp\app\src\main\AndroidManifest.xml:25:13-50
 32            android:exported="false"
-32-->F:\CondoApp\app\src\main\AndroidManifest.xml:25:13-37
+32-->F:\CondoApp\app\src\main\AndroidManifest.xml:26:13-37
 33            android:screenOrientation="portrait" />
-33-->F:\CondoApp\app\src\main\AndroidManifest.xml:26:13-49
+33-->F:\CondoApp\app\src\main\AndroidManifest.xml:27:13-49
 34        <activity
-34-->F:\CondoApp\app\src\main\AndroidManifest.xml:27:9-34:20
-35            android:name="com.example.condoapp.MainActivity"
-35-->F:\CondoApp\app\src\main\AndroidManifest.xml:28:13-41
-36            android:exported="true"
-36-->F:\CondoApp\app\src\main\AndroidManifest.xml:29:13-36
-37            android:label="@string/title_activity_main"
-37-->F:\CondoApp\app\src\main\AndroidManifest.xml:30:13-56
-38            android:screenOrientation="portrait"
-38-->F:\CondoApp\app\src\main\AndroidManifest.xml:32:13-49
-39            android:theme="@style/Theme.CondoApp.NoActionBar" >
-39-->F:\CondoApp\app\src\main\AndroidManifest.xml:31:13-62
-40        </activity>
-41        <activity
-41-->F:\CondoApp\app\src\main\AndroidManifest.xml:35:9-44:20
-42            android:name="com.example.condoapp.activity.LoginActivity"
-42-->F:\CondoApp\app\src\main\AndroidManifest.xml:36:13-51
-43            android:exported="true"
-43-->F:\CondoApp\app\src\main\AndroidManifest.xml:37:13-36
-44            android:screenOrientation="portrait" >
-44-->F:\CondoApp\app\src\main\AndroidManifest.xml:38:13-49
-45            <intent-filter>
-45-->F:\CondoApp\app\src\main\AndroidManifest.xml:39:13-43:29
-46                <action android:name="android.intent.action.MAIN" />
-46-->F:\CondoApp\app\src\main\AndroidManifest.xml:40:17-69
-46-->F:\CondoApp\app\src\main\AndroidManifest.xml:40:25-66
-47
-48                <category android:name="android.intent.category.LAUNCHER" />
-48-->F:\CondoApp\app\src\main\AndroidManifest.xml:42:17-77
-48-->F:\CondoApp\app\src\main\AndroidManifest.xml:42:27-74
-49            </intent-filter>
-50        </activity>
-51
-52        <provider
-52-->[androidx.emoji2:emoji2:1.0.0] C:\Users\akosi\.gradle\caches\transforms-3\db233f3ba8947fb0f91cd701b83dfe6a\transformed\emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
-53            android:name="androidx.startup.InitializationProvider"
-53-->[androidx.emoji2:emoji2:1.0.0] C:\Users\akosi\.gradle\caches\transforms-3\db233f3ba8947fb0f91cd701b83dfe6a\transformed\emoji2-1.0.0\AndroidManifest.xml:27:13-67
-54            android:authorities="com.example.condoapp.androidx-startup"
-54-->[androidx.emoji2:emoji2:1.0.0] C:\Users\akosi\.gradle\caches\transforms-3\db233f3ba8947fb0f91cd701b83dfe6a\transformed\emoji2-1.0.0\AndroidManifest.xml:28:13-68
-55            android:exported="false" >
-55-->[androidx.emoji2:emoji2:1.0.0] C:\Users\akosi\.gradle\caches\transforms-3\db233f3ba8947fb0f91cd701b83dfe6a\transformed\emoji2-1.0.0\AndroidManifest.xml:29:13-37
-56            <meta-data
-56-->[androidx.emoji2:emoji2:1.0.0] C:\Users\akosi\.gradle\caches\transforms-3\db233f3ba8947fb0f91cd701b83dfe6a\transformed\emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
-57                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-57-->[androidx.emoji2:emoji2:1.0.0] C:\Users\akosi\.gradle\caches\transforms-3\db233f3ba8947fb0f91cd701b83dfe6a\transformed\emoji2-1.0.0\AndroidManifest.xml:32:17-75
-58                android:value="androidx.startup" />
-58-->[androidx.emoji2:emoji2:1.0.0] C:\Users\akosi\.gradle\caches\transforms-3\db233f3ba8947fb0f91cd701b83dfe6a\transformed\emoji2-1.0.0\AndroidManifest.xml:33:17-49
+34-->F:\CondoApp\app\src\main\AndroidManifest.xml:28:9-31:52
+35            android:name="com.example.condoapp.activity.CreateIncedentReport"
+35-->F:\CondoApp\app\src\main\AndroidManifest.xml:29:13-58
+36            android:exported="false"
+36-->F:\CondoApp\app\src\main\AndroidManifest.xml:30:13-37
+37            android:screenOrientation="portrait" />
+37-->F:\CondoApp\app\src\main\AndroidManifest.xml:31:13-49
+38        <activity
+38-->F:\CondoApp\app\src\main\AndroidManifest.xml:32:9-37:74
+39            android:name="com.example.condoapp.MainActivity"
+39-->F:\CondoApp\app\src\main\AndroidManifest.xml:33:13-41
+40            android:exported="true"
+40-->F:\CondoApp\app\src\main\AndroidManifest.xml:34:13-36
+41            android:label="@string/title_activity_main"
+41-->F:\CondoApp\app\src\main\AndroidManifest.xml:35:13-56
+42            android:screenOrientation="portrait"
+42-->F:\CondoApp\app\src\main\AndroidManifest.xml:36:13-49
+43            android:theme="@style/Theme.CondoApp.NoActionBar" />
+43-->F:\CondoApp\app\src\main\AndroidManifest.xml:37:13-62
+44        <activity
+44-->F:\CondoApp\app\src\main\AndroidManifest.xml:38:9-46:20
+45            android:name="com.example.condoapp.activity.LoginActivity"
+45-->F:\CondoApp\app\src\main\AndroidManifest.xml:39:13-51
+46            android:exported="true"
+46-->F:\CondoApp\app\src\main\AndroidManifest.xml:40:13-36
+47            android:screenOrientation="portrait" >
+47-->F:\CondoApp\app\src\main\AndroidManifest.xml:41:13-49
+48            <intent-filter>
+48-->F:\CondoApp\app\src\main\AndroidManifest.xml:42:13-45:29
+49                <action android:name="android.intent.action.MAIN" />
+49-->F:\CondoApp\app\src\main\AndroidManifest.xml:43:17-69
+49-->F:\CondoApp\app\src\main\AndroidManifest.xml:43:25-66
+50
+51                <category android:name="android.intent.category.LAUNCHER" />
+51-->F:\CondoApp\app\src\main\AndroidManifest.xml:44:17-77
+51-->F:\CondoApp\app\src\main\AndroidManifest.xml:44:27-74
+52            </intent-filter>
+53        </activity>
+54
+55        <provider
+55-->[androidx.emoji2:emoji2:1.0.0] C:\Users\akosi\.gradle\caches\transforms-3\db233f3ba8947fb0f91cd701b83dfe6a\transformed\emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+56            android:name="androidx.startup.InitializationProvider"
+56-->[androidx.emoji2:emoji2:1.0.0] C:\Users\akosi\.gradle\caches\transforms-3\db233f3ba8947fb0f91cd701b83dfe6a\transformed\emoji2-1.0.0\AndroidManifest.xml:27:13-67
+57            android:authorities="com.example.condoapp.androidx-startup"
+57-->[androidx.emoji2:emoji2:1.0.0] C:\Users\akosi\.gradle\caches\transforms-3\db233f3ba8947fb0f91cd701b83dfe6a\transformed\emoji2-1.0.0\AndroidManifest.xml:28:13-68
+58            android:exported="false" >
+58-->[androidx.emoji2:emoji2:1.0.0] C:\Users\akosi\.gradle\caches\transforms-3\db233f3ba8947fb0f91cd701b83dfe6a\transformed\emoji2-1.0.0\AndroidManifest.xml:29:13-37
 59            <meta-data
-59-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\akosi\.gradle\caches\transforms-3\45759b04922bc547a81513b82a38ba1e\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
-60                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-60-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\akosi\.gradle\caches\transforms-3\45759b04922bc547a81513b82a38ba1e\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+59-->[androidx.emoji2:emoji2:1.0.0] C:\Users\akosi\.gradle\caches\transforms-3\db233f3ba8947fb0f91cd701b83dfe6a\transformed\emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+60                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+60-->[androidx.emoji2:emoji2:1.0.0] C:\Users\akosi\.gradle\caches\transforms-3\db233f3ba8947fb0f91cd701b83dfe6a\transformed\emoji2-1.0.0\AndroidManifest.xml:32:17-75
 61                android:value="androidx.startup" />
-61-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\akosi\.gradle\caches\transforms-3\45759b04922bc547a81513b82a38ba1e\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
-62        </provider>
-63    </application>
-64
-65</manifest>
+61-->[androidx.emoji2:emoji2:1.0.0] C:\Users\akosi\.gradle\caches\transforms-3\db233f3ba8947fb0f91cd701b83dfe6a\transformed\emoji2-1.0.0\AndroidManifest.xml:33:17-49
+62            <meta-data
+62-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\akosi\.gradle\caches\transforms-3\45759b04922bc547a81513b82a38ba1e\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+63                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+63-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\akosi\.gradle\caches\transforms-3\45759b04922bc547a81513b82a38ba1e\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+64                android:value="androidx.startup" />
+64-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\akosi\.gradle\caches\transforms-3\45759b04922bc547a81513b82a38ba1e\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+65        </provider>
+66    </application>
+67
+68</manifest>

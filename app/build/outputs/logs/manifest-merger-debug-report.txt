@@ -1,10 +1,11 @@
 -- Merging decision tree log ---
 manifest
-ADDED from F:\CondoApp\app\src\main\AndroidManifest.xml:2:1-47:12
-INJECTED from F:\CondoApp\app\src\main\AndroidManifest.xml:2:1-47:12
-INJECTED from F:\CondoApp\app\src\main\AndroidManifest.xml:2:1-47:12
-INJECTED from F:\CondoApp\app\src\main\AndroidManifest.xml:2:1-47:12
+ADDED from F:\CondoApp\app\src\main\AndroidManifest.xml:2:1-49:12
+INJECTED from F:\CondoApp\app\src\main\AndroidManifest.xml:2:1-49:12
+INJECTED from F:\CondoApp\app\src\main\AndroidManifest.xml:2:1-49:12
+INJECTED from F:\CondoApp\app\src\main\AndroidManifest.xml:2:1-49:12
 MERGED from [androidx.databinding:viewbinding:7.2.0] C:\Users\akosi\.gradle\caches\transforms-3\99432332ad367c6cbfd6db3a485cb3ff\transformed\viewbinding-7.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.aakira:expandable-layout:1.6.0] C:\Users\akosi\.gradle\caches\transforms-3\a29a07dd12483853469a19c1130a106d\transformed\expandable-layout-1.6.0\AndroidManifest.xml:2:1-14:12
 MERGED from [com.github.SimformSolutionsPvtLtd:SSPullToRefresh:1.3] C:\Users\akosi\.gradle\caches\transforms-3\66c639b2588019c59cbdc149f1624ae8\transformed\SSPullToRefresh-1.3\AndroidManifest.xml:2:1-9:12
 MERGED from [com.github.Nikoloutsos:KLoadingSpin:1.1.0] C:\Users\akosi\.gradle\caches\transforms-3\e605dafc0825474e36f99bab36fced6d\transformed\KLoadingSpin-1.1.0\AndroidManifest.xml:2:1-11:12
 MERGED from [com.android.volley:volley:1.2.1] C:\Users\akosi\.gradle\caches\transforms-3\1c3795332269bd05ed6ed83bf24cb816\transformed\volley-1.2.1\AndroidManifest.xml:2:1-7:12
@@ -58,22 +59,22 @@ MERGED from [androidx.print:print:1.0.0] C:\Users\akosi\.gradle\caches\transform
 MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.22] C:\Users\akosi\.gradle\caches\transforms-3\3b3243f749003e89bbbbaaa1195e1894\transformed\android-gif-drawable-1.2.22\AndroidManifest.xml:2:1-9:12
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\akosi\.gradle\caches\transforms-3\e36aaea95b1e10850d139e7025f21ff0\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [pl.droidsonroids.relinker:relinker:1.4.1] C:\Users\akosi\.gradle\caches\transforms-3\a74d7db3ed6a44566780a299d0185364\transformed\relinker-1.4.1\AndroidManifest.xml:2:1-7:12
-INJECTED from F:\CondoApp\app\src\main\AndroidManifest.xml:2:1-47:12
-INJECTED from F:\CondoApp\app\src\main\AndroidManifest.xml:2:1-47:12
-INJECTED from F:\CondoApp\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from F:\CondoApp\app\src\main\AndroidManifest.xml:2:1-49:12
+INJECTED from F:\CondoApp\app\src\main\AndroidManifest.xml:2:1-49:12
+INJECTED from F:\CondoApp\app\src\main\AndroidManifest.xml:2:1-49:12
 	package
 		ADDED from F:\CondoApp\app\src\main\AndroidManifest.xml:4:5-35
 		INJECTED from F:\CondoApp\app\src\main\AndroidManifest.xml
 		INJECTED from F:\CondoApp\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from F:\CondoApp\app\src\main\AndroidManifest.xml
-		ADDED from F:\CondoApp\app\src\main\AndroidManifest.xml:2:1-47:12
+		ADDED from F:\CondoApp\app\src\main\AndroidManifest.xml:2:1-49:12
 		INJECTED from F:\CondoApp\app\src\main\AndroidManifest.xml
 	xmlns:tools
 		ADDED from F:\CondoApp\app\src\main\AndroidManifest.xml:3:5-51
 	android:versionCode
 		INJECTED from F:\CondoApp\app\src\main\AndroidManifest.xml
-		ADDED from F:\CondoApp\app\src\main\AndroidManifest.xml:2:1-47:12
+		ADDED from F:\CondoApp\app\src\main\AndroidManifest.xml:2:1-49:12
 		INJECTED from F:\CondoApp\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from F:\CondoApp\app\src\main\AndroidManifest.xml:2:11-69
@@ -82,7 +83,9 @@ ADDED from F:\CondoApp\app\src\main\AndroidManifest.xml:6:5-67
 	android:name
 		ADDED from F:\CondoApp\app\src\main\AndroidManifest.xml:6:22-64
 application
-ADDED from F:\CondoApp\app\src\main\AndroidManifest.xml:8:5-45:19
+ADDED from F:\CondoApp\app\src\main\AndroidManifest.xml:8:5-47:19
+MERGED from [com.github.aakira:expandable-layout:1.6.0] C:\Users\akosi\.gradle\caches\transforms-3\a29a07dd12483853469a19c1130a106d\transformed\expandable-layout-1.6.0\AndroidManifest.xml:12:5-20
+MERGED from [com.github.aakira:expandable-layout:1.6.0] C:\Users\akosi\.gradle\caches\transforms-3\a29a07dd12483853469a19c1130a106d\transformed\expandable-layout-1.6.0\AndroidManifest.xml:12:5-20
 MERGED from [com.google.android.material:material:1.6.0] C:\Users\akosi\.gradle\caches\transforms-3\1217d3aa52fa78bda9a0244b3a55003a\transformed\material-1.6.0\AndroidManifest.xml:24:5-20
 MERGED from [com.google.android.material:material:1.6.0] C:\Users\akosi\.gradle\caches\transforms-3\1217d3aa52fa78bda9a0244b3a55003a\transformed\material-1.6.0\AndroidManifest.xml:24:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] C:\Users\akosi\.gradle\caches\transforms-3\d3afed95d73ad065506e7f132d41fe44\transformed\constraintlayout-2.1.3\AndroidManifest.xml:9:5-20
@@ -121,58 +124,68 @@ MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\akosi\.gradle\cach
 		ADDED from F:\CondoApp\app\src\main\AndroidManifest.xml:10:9-65
 	android:usesCleartextTraffic
 		ADDED from F:\CondoApp\app\src\main\AndroidManifest.xml:17:9-44
-activity#com.example.condoapp.activity.Announcement
-ADDED from F:\CondoApp\app\src\main\AndroidManifest.xml:19:9-22:51
+activity#com.example.condoapp.activity.IncidentReportActivity
+ADDED from F:\CondoApp\app\src\main\AndroidManifest.xml:19:9-23:20
 	android:screenOrientation
 		ADDED from F:\CondoApp\app\src\main\AndroidManifest.xml:22:13-49
 	android:exported
-		ADDED from F:\CondoApp\app\src\main\AndroidManifest.xml:21:13-37
+		ADDED from F:\CondoApp\app\src\main\AndroidManifest.xml:21:13-36
 	android:name
-		ADDED from F:\CondoApp\app\src\main\AndroidManifest.xml:20:13-50
+		ADDED from F:\CondoApp\app\src\main\AndroidManifest.xml:20:13-60
+activity#com.example.condoapp.activity.Announcement
+ADDED from F:\CondoApp\app\src\main\AndroidManifest.xml:24:9-27:52
+	android:screenOrientation
+		ADDED from F:\CondoApp\app\src\main\AndroidManifest.xml:27:13-49
+	android:exported
+		ADDED from F:\CondoApp\app\src\main\AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from F:\CondoApp\app\src\main\AndroidManifest.xml:25:13-50
 activity#com.example.condoapp.activity.CreateIncedentReport
-ADDED from F:\CondoApp\app\src\main\AndroidManifest.xml:23:9-26:51
+ADDED from F:\CondoApp\app\src\main\AndroidManifest.xml:28:9-31:52
 	android:screenOrientation
-		ADDED from F:\CondoApp\app\src\main\AndroidManifest.xml:26:13-49
+		ADDED from F:\CondoApp\app\src\main\AndroidManifest.xml:31:13-49
 	android:exported
-		ADDED from F:\CondoApp\app\src\main\AndroidManifest.xml:25:13-37
+		ADDED from F:\CondoApp\app\src\main\AndroidManifest.xml:30:13-37
 	android:name
-		ADDED from F:\CondoApp\app\src\main\AndroidManifest.xml:24:13-58
+		ADDED from F:\CondoApp\app\src\main\AndroidManifest.xml:29:13-58
 activity#com.example.condoapp.MainActivity
-ADDED from F:\CondoApp\app\src\main\AndroidManifest.xml:27:9-34:20
+ADDED from F:\CondoApp\app\src\main\AndroidManifest.xml:32:9-37:74
 	android:screenOrientation
-		ADDED from F:\CondoApp\app\src\main\AndroidManifest.xml:32:13-49
+		ADDED from F:\CondoApp\app\src\main\AndroidManifest.xml:36:13-49
 	android:label
-		ADDED from F:\CondoApp\app\src\main\AndroidManifest.xml:30:13-56
+		ADDED from F:\CondoApp\app\src\main\AndroidManifest.xml:35:13-56
 	android:exported
-		ADDED from F:\CondoApp\app\src\main\AndroidManifest.xml:29:13-36
+		ADDED from F:\CondoApp\app\src\main\AndroidManifest.xml:34:13-36
 	android:theme
-		ADDED from F:\CondoApp\app\src\main\AndroidManifest.xml:31:13-62
+		ADDED from F:\CondoApp\app\src\main\AndroidManifest.xml:37:13-62
 	android:name
-		ADDED from F:\CondoApp\app\src\main\AndroidManifest.xml:28:13-41
+		ADDED from F:\CondoApp\app\src\main\AndroidManifest.xml:33:13-41
 activity#com.example.condoapp.activity.LoginActivity
-ADDED from F:\CondoApp\app\src\main\AndroidManifest.xml:35:9-44:20
+ADDED from F:\CondoApp\app\src\main\AndroidManifest.xml:38:9-46:20
 	android:screenOrientation
-		ADDED from F:\CondoApp\app\src\main\AndroidManifest.xml:38:13-49
+		ADDED from F:\CondoApp\app\src\main\AndroidManifest.xml:41:13-49
 	android:exported
-		ADDED from F:\CondoApp\app\src\main\AndroidManifest.xml:37:13-36
+		ADDED from F:\CondoApp\app\src\main\AndroidManifest.xml:40:13-36
 	android:name
-		ADDED from F:\CondoApp\app\src\main\AndroidManifest.xml:36:13-51
+		ADDED from F:\CondoApp\app\src\main\AndroidManifest.xml:39:13-51
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from F:\CondoApp\app\src\main\AndroidManifest.xml:39:13-43:29
+ADDED from F:\CondoApp\app\src\main\AndroidManifest.xml:42:13-45:29
 action#android.intent.action.MAIN
-ADDED from F:\CondoApp\app\src\main\AndroidManifest.xml:40:17-69
+ADDED from F:\CondoApp\app\src\main\AndroidManifest.xml:43:17-69
 	android:name
-		ADDED from F:\CondoApp\app\src\main\AndroidManifest.xml:40:25-66
+		ADDED from F:\CondoApp\app\src\main\AndroidManifest.xml:43:25-66
 category#android.intent.category.LAUNCHER
-ADDED from F:\CondoApp\app\src\main\AndroidManifest.xml:42:17-77
+ADDED from F:\CondoApp\app\src\main\AndroidManifest.xml:44:17-77
 	android:name
-		ADDED from F:\CondoApp\app\src\main\AndroidManifest.xml:42:27-74
+		ADDED from F:\CondoApp\app\src\main\AndroidManifest.xml:44:27-74
 uses-sdk
 INJECTED from F:\CondoApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from F:\CondoApp\app\src\main\AndroidManifest.xml
 INJECTED from F:\CondoApp\app\src\main\AndroidManifest.xml
 MERGED from [androidx.databinding:viewbinding:7.2.0] C:\Users\akosi\.gradle\caches\transforms-3\99432332ad367c6cbfd6db3a485cb3ff\transformed\viewbinding-7.2.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.databinding:viewbinding:7.2.0] C:\Users\akosi\.gradle\caches\transforms-3\99432332ad367c6cbfd6db3a485cb3ff\transformed\viewbinding-7.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.aakira:expandable-layout:1.6.0] C:\Users\akosi\.gradle\caches\transforms-3\a29a07dd12483853469a19c1130a106d\transformed\expandable-layout-1.6.0\AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.aakira:expandable-layout:1.6.0] C:\Users\akosi\.gradle\caches\transforms-3\a29a07dd12483853469a19c1130a106d\transformed\expandable-layout-1.6.0\AndroidManifest.xml:8:5-10:41
 MERGED from [com.github.SimformSolutionsPvtLtd:SSPullToRefresh:1.3] C:\Users\akosi\.gradle\caches\transforms-3\66c639b2588019c59cbdc149f1624ae8\transformed\SSPullToRefresh-1.3\AndroidManifest.xml:5:5-7:41
 MERGED from [com.github.SimformSolutionsPvtLtd:SSPullToRefresh:1.3] C:\Users\akosi\.gradle\caches\transforms-3\66c639b2588019c59cbdc149f1624ae8\transformed\SSPullToRefresh-1.3\AndroidManifest.xml:5:5-7:41
 MERGED from [com.github.Nikoloutsos:KLoadingSpin:1.1.0] C:\Users\akosi\.gradle\caches\transforms-3\e605dafc0825474e36f99bab36fced6d\transformed\KLoadingSpin-1.1.0\AndroidManifest.xml:7:5-9:41

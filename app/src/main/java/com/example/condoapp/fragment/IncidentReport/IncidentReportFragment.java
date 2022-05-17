@@ -1,6 +1,7 @@
-package com.example.condoapp.fragment.main;
+package com.example.condoapp.fragment.IncidentReport;
 
 import android.content.Context;
+import android.content.Intent;
 import android.graphics.Color;
 import android.os.Bundle;
 
@@ -12,6 +13,7 @@ import android.os.CountDownTimer;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
 import android.widget.TextView;
@@ -21,6 +23,9 @@ import com.android.volley.VolleyError;
 import com.android.volley.toolbox.Volley;
 import com.example.condoapp.R;
 import com.example.condoapp.SharedViewModel;
+import com.example.condoapp.activity.IncidentReportActivity;
+import com.example.condoapp.controller.HomeController;
+import com.example.condoapp.controller.IncidentReportController;
 import com.example.condoapp.model.IncidentReportModel;
 import com.example.condoapp.model.VolleyCallBack;
 import com.simform.refresh.SSPullToRefreshLayout;
@@ -30,7 +35,6 @@ import org.json.JSONException;
 import org.json.JSONObject;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
 
@@ -96,13 +100,14 @@ public class IncidentReportFragment extends Fragment {
         return view;
     }
     public void refreshData(String []s){
-        irm = new IncidentReportModel(s[0],getString(R.string.api_key),queue);
+        irm = new IncidentReportModel(s[0],getString(R.string.api_key),queue,null,null);
         irm.incidentReportData(new VolleyCallBack() {
             @Override
             public void onSuccess(String response) {
                 try{
                     JSONArray object = new JSONArray(response);
                     setupData(object);
+                    setUpOnclickListener(s);
                 }catch (Exception e){
 
                 }
@@ -115,17 +120,31 @@ public class IncidentReportFragment extends Fragment {
             }
         });
     }
+    IncidentReportController irc;
+    private void setUpOnclickListener(String []s) {
+        incident_report_lv.setOnItemClickListener(new AdapterView.OnItemClickListener() {
+            @Override
+            public void onItemClick(AdapterView<?> adapterView, View view, int i, long l) {
+                irc = new IncidentReportController();
+                IncidentReport adds = (IncidentReport) (incident_report_lv.getItemAtPosition(i));
+                Intent showDetail = new Intent(getActivity(), IncidentReportActivity.class);
+                showDetail.putExtra("irc_id", adds.getId());
+                showDetail.putExtra("irc_title", adds.getTitle());
+                showDetail.putExtra("irc_message", adds.getMessage());
+                showDetail.putExtra("irc_date", adds.getCreatedAt());
+                startActivity(irc.putAllDataPassed(showDetail,s));
+                getActivity().finish();
+            }
+        });
+    }
     private void setupData(JSONArray array) throws JSONException {
         incidentReportArrayList.clear();
         try {
-            System.out.println(array);
             for (int i = 0; i < array.length(); i++) {
                 JSONObject jsonObject = new JSONObject(array.getString(i));
                 IncidentReport add = new IncidentReport(jsonObject.getString("id"), jsonObject.getString("title"), jsonObject.getString("message"), jsonObject.getString("status"),jsonObject.getString("createdAt"),jsonObject.getString("updatedAt"));
                 incidentReportArrayList.add(add);
             }
-            System.out.println(incidentReportArrayList.size());
-            Collections.reverse(incidentReportArrayList);
             adapter.notifyDataSetChanged();
             refresh_timer.cancel();
             ssPullToRefreshLayout.setRefreshing(false);
