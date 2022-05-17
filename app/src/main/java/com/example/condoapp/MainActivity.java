@@ -69,7 +69,7 @@ public class MainActivity extends AppCompatActivity {
         name = (TextView) hView.findViewById(R.id.main_name);
         email = (TextView) hView.findViewById(R.id.main_email);
         name.setText(getIntent().getExtras().getString("first_name")+ " "+ getIntent().getExtras().getString("last_name"));
-        email.setText(getIntent().getExtras().getString("email"));
+        email.setText(getIntent().getExtras().getString("role"));
         qr = (ImageView) findViewById(R.id.qrcode);
         qr.setOnClickListener(new View.OnClickListener() {
             @Override

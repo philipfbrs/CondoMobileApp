@@ -9,6 +9,7 @@ import androidx.fragment.app.Fragment;
 import androidx.lifecycle.Observer;
 import androidx.lifecycle.ViewModelProvider;
 
+import android.os.CountDownTimer;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -26,6 +27,7 @@ import com.example.condoapp.controller.HomeController;
 import com.example.condoapp.controller.MainController;
 import com.example.condoapp.model.HomeModel;
 import com.example.condoapp.model.VolleyCallBack;
+import com.simform.refresh.SSPullToRefreshLayout;
 
 import org.json.JSONArray;
 import org.json.JSONException;
@@ -63,6 +65,8 @@ public class HomeFragment extends Fragment {
     }
 
     String getPassedData[];
+    SSPullToRefreshLayout ssPullRefresh;
+    CountDownTimer refresh_timer;
 
     @Override
     public View onCreateView(@NonNull LayoutInflater inflater, ViewGroup container,
@@ -70,6 +74,7 @@ public class HomeFragment extends Fragment {
         // Inflate the layout for this fragment
         viewModel = new ViewModelProvider(getActivity()).get(SharedViewModel.class);
         View view = inflater.inflate(R.layout.fragment_home, container, false);
+        ssPullRefresh = (SSPullToRefreshLayout) view.findViewById(R.id.ssPullRefresh);
         viewModel.getText().observe(getViewLifecycleOwner(), new Observer<String[]>() {
             @Override
             public void onChanged(String[] s) {
@@ -77,33 +82,59 @@ public class HomeFragment extends Fragment {
                 announcementArrayList = new ArrayList<>();
                 adapter = new AnnouncementAdapter(getActivity(), 0, announcementArrayList);
                 RequestQueue queue = Volley.newRequestQueue(getActivity());
-                home = new HomeModel(s[0], getString(R.string.api_key), queue);
-                home.announcementsData(new VolleyCallBack() {
+                refreshData(s,queue);
+                lview.setAdapter(adapter);
+                ssPullRefresh.setOnRefreshListener(new SSPullToRefreshLayout.OnRefreshListener() {
                     @Override
-                    public void onSuccess(String response) {
-                        try {
-                            JSONArray array = new JSONArray(response);
-                            setupData(array);
-                            setUpOnclickListener(s);
-                            lview.setAdapter(adapter);
-                        } catch (Exception e) {
+                    public void onRefresh() {
+                        refresh_timer = new CountDownTimer(4000, 1000) {
+                            public void onTick(long millisUntilFinished) {
+                                try {
+                                    refreshData(s,queue);
+                                } catch (Exception e) {
 
-                        }
+                                }
+                            }
+
+                            @Override
+                            public void onFinish() {
+                                refresh_timer.cancel();
+                                ssPullRefresh.setRefreshing(false);
+                            }
+                        };
+                        refresh_timer.start();
                     }
-
-                    @Override
-                    public void onError(VolleyError error) {
-                        System.out.println("making error test");
-                    }
-
 
 
                 });
+
             }
         });
         return view;
     }
+    public void refreshData(String []s, RequestQueue queue){
+        announcementArrayList.clear();
+        home = new HomeModel(s[0], getString(R.string.api_key), queue);
+        home.announcementsData(new VolleyCallBack() {
+            @Override
+            public void onSuccess(String response) {
+                try {
+                    JSONArray array = new JSONArray(response);
+                    setupData(array);
+                    setUpOnclickListener(s);
+                    adapter.notifyDataSetChanged();
+                    refresh_timer.cancel();
+                    ssPullRefresh.setRefreshing(false);
+                } catch (Exception e) {
 
+                }
+            }
+            @Override
+            public void onError(VolleyError error) {
+                System.out.println("making error test");
+            }
+        });
+    }
     HomeController hc;
 
     private void setUpOnclickListener(String []s) {

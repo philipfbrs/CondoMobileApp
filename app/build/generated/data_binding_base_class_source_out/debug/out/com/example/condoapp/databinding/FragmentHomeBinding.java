@@ -12,6 +12,7 @@ import androidx.annotation.Nullable;
 import androidx.viewbinding.ViewBinding;
 import androidx.viewbinding.ViewBindings;
 import com.example.condoapp.R;
+import com.simform.refresh.SSPullToRefreshLayout;
 import java.lang.NullPointerException;
 import java.lang.Override;
 import java.lang.String;
@@ -24,12 +25,17 @@ public final class FragmentHomeBinding implements ViewBinding {
   public final ListView announcementListview;
 
   @NonNull
+  public final SSPullToRefreshLayout ssPullRefresh;
+
+  @NonNull
   public final TextView textView8;
 
   private FragmentHomeBinding(@NonNull LinearLayout rootView,
-      @NonNull ListView announcementListview, @NonNull TextView textView8) {
+      @NonNull ListView announcementListview, @NonNull SSPullToRefreshLayout ssPullRefresh,
+      @NonNull TextView textView8) {
     this.rootView = rootView;
     this.announcementListview = announcementListview;
+    this.ssPullRefresh = ssPullRefresh;
     this.textView8 = textView8;
   }
 
@@ -66,13 +72,20 @@ public final class FragmentHomeBinding implements ViewBinding {
         break missingId;
       }
 
+      id = R.id.ssPullRefresh;
+      SSPullToRefreshLayout ssPullRefresh = ViewBindings.findChildViewById(rootView, id);
+      if (ssPullRefresh == null) {
+        break missingId;
+      }
+
       id = R.id.textView8;
       TextView textView8 = ViewBindings.findChildViewById(rootView, id);
       if (textView8 == null) {
         break missingId;
       }
 
-      return new FragmentHomeBinding((LinearLayout) rootView, announcementListview, textView8);
+      return new FragmentHomeBinding((LinearLayout) rootView, announcementListview, ssPullRefresh,
+          textView8);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

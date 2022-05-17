@@ -5,14 +5,18 @@ INJECTED from F:\CondoApp\app\src\main\AndroidManifest.xml:2:1-47:12
 INJECTED from F:\CondoApp\app\src\main\AndroidManifest.xml:2:1-47:12
 INJECTED from F:\CondoApp\app\src\main\AndroidManifest.xml:2:1-47:12
 MERGED from [androidx.databinding:viewbinding:7.2.0] C:\Users\akosi\.gradle\caches\transforms-3\99432332ad367c6cbfd6db3a485cb3ff\transformed\viewbinding-7.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.SimformSolutionsPvtLtd:SSPullToRefresh:1.3] C:\Users\akosi\.gradle\caches\transforms-3\66c639b2588019c59cbdc149f1624ae8\transformed\SSPullToRefresh-1.3\AndroidManifest.xml:2:1-9:12
+MERGED from [com.github.Nikoloutsos:KLoadingSpin:1.1.0] C:\Users\akosi\.gradle\caches\transforms-3\e605dafc0825474e36f99bab36fced6d\transformed\KLoadingSpin-1.1.0\AndroidManifest.xml:2:1-11:12
 MERGED from [com.android.volley:volley:1.2.1] C:\Users\akosi\.gradle\caches\transforms-3\1c3795332269bd05ed6ed83bf24cb816\transformed\volley-1.2.1\AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.navigation:navigation-ui:2.3.5] C:\Users\akosi\.gradle\caches\transforms-3\0f0fbf775d2f037af7b3845fb4a0fd7d\transformed\navigation-ui-2.3.5\AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.android.material:material:1.6.0] C:\Users\akosi\.gradle\caches\transforms-3\1217d3aa52fa78bda9a0244b3a55003a\transformed\material-1.6.0\AndroidManifest.xml:17:1-26:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] C:\Users\akosi\.gradle\caches\transforms-3\d3afed95d73ad065506e7f132d41fe44\transformed\constraintlayout-2.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [com.airbnb.android:lottie:3.7.0] C:\Users\akosi\.gradle\caches\transforms-3\74b5b6e70500f7fc84dc2da7c3125182\transformed\lottie-3.7.0\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.appcompat:appcompat:1.4.1] C:\Users\akosi\.gradle\caches\transforms-3\3b1bc201b3bca652ca8cba6f27421397\transformed\appcompat-1.4.1\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.3.1] C:\Users\akosi\.gradle\caches\transforms-3\a8a75cc2b59e6aa4d94cee42b578826d\transformed\lifecycle-livedata-ktx-2.3.1\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] C:\Users\akosi\.gradle\caches\transforms-3\df27715f312649c846853da660830c5b\transformed\lifecycle-viewmodel-ktx-2.3.1\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.navigation:navigation-fragment:2.3.5] C:\Users\akosi\.gradle\caches\transforms-3\1579921054881926cc2d43aab9bdff04\transformed\navigation-fragment-2.3.5\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.5.0] C:\Users\akosi\.gradle\caches\transforms-3\722cb1b906ed77e874cd38393f987c64\transformed\core-ktx-1.5.0\AndroidManifest.xml:2:1-9:12
 MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\akosi\.gradle\caches\transforms-3\b4968bffc4d4c41b057d435a194dfa3f\transformed\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\akosi\.gradle\caches\transforms-3\08be5f2811952d88fdbd324236b15817\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.navigation:navigation-runtime:2.3.5] C:\Users\akosi\.gradle\caches\transforms-3\00999fd61a890a663eef5460c9f2fb8e\transformed\navigation-runtime-2.3.5\AndroidManifest.xml:17:1-24:12
@@ -51,7 +55,9 @@ MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\akosi\.gradle\ca
 MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\akosi\.gradle\caches\transforms-3\515b01c1f1b6c0d007494e5098e90b5a\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\akosi\.gradle\caches\transforms-3\01bc8368ad5575d4d6f30c21d182f95c\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] C:\Users\akosi\.gradle\caches\transforms-3\72f1940f015bcc005a737b3aab30d906\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.22] C:\Users\akosi\.gradle\caches\transforms-3\3b3243f749003e89bbbbaaa1195e1894\transformed\android-gif-drawable-1.2.22\AndroidManifest.xml:2:1-9:12
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\akosi\.gradle\caches\transforms-3\e36aaea95b1e10850d139e7025f21ff0\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [pl.droidsonroids.relinker:relinker:1.4.1] C:\Users\akosi\.gradle\caches\transforms-3\a74d7db3ed6a44566780a299d0185364\transformed\relinker-1.4.1\AndroidManifest.xml:2:1-7:12
 INJECTED from F:\CondoApp\app\src\main\AndroidManifest.xml:2:1-47:12
 INJECTED from F:\CondoApp\app\src\main\AndroidManifest.xml:2:1-47:12
 INJECTED from F:\CondoApp\app\src\main\AndroidManifest.xml:2:1-47:12
@@ -81,6 +87,8 @@ MERGED from [com.google.android.material:material:1.6.0] C:\Users\akosi\.gradle\
 MERGED from [com.google.android.material:material:1.6.0] C:\Users\akosi\.gradle\caches\transforms-3\1217d3aa52fa78bda9a0244b3a55003a\transformed\material-1.6.0\AndroidManifest.xml:24:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] C:\Users\akosi\.gradle\caches\transforms-3\d3afed95d73ad065506e7f132d41fe44\transformed\constraintlayout-2.1.3\AndroidManifest.xml:9:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] C:\Users\akosi\.gradle\caches\transforms-3\d3afed95d73ad065506e7f132d41fe44\transformed\constraintlayout-2.1.3\AndroidManifest.xml:9:5-20
+MERGED from [com.airbnb.android:lottie:3.7.0] C:\Users\akosi\.gradle\caches\transforms-3\74b5b6e70500f7fc84dc2da7c3125182\transformed\lottie-3.7.0\AndroidManifest.xml:9:5-20
+MERGED from [com.airbnb.android:lottie:3.7.0] C:\Users\akosi\.gradle\caches\transforms-3\74b5b6e70500f7fc84dc2da7c3125182\transformed\lottie-3.7.0\AndroidManifest.xml:9:5-20
 MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\akosi\.gradle\caches\transforms-3\db233f3ba8947fb0f91cd701b83dfe6a\transformed\emoji2-1.0.0\AndroidManifest.xml:25:5-35:19
 MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\akosi\.gradle\caches\transforms-3\db233f3ba8947fb0f91cd701b83dfe6a\transformed\emoji2-1.0.0\AndroidManifest.xml:25:5-35:19
 MERGED from [androidx.core:core:1.7.0] C:\Users\akosi\.gradle\caches\transforms-3\d8338c189490aee58604e111af57865f\transformed\core-1.7.0\AndroidManifest.xml:24:5-89
@@ -165,6 +173,10 @@ INJECTED from F:\CondoApp\app\src\main\AndroidManifest.xml
 INJECTED from F:\CondoApp\app\src\main\AndroidManifest.xml
 MERGED from [androidx.databinding:viewbinding:7.2.0] C:\Users\akosi\.gradle\caches\transforms-3\99432332ad367c6cbfd6db3a485cb3ff\transformed\viewbinding-7.2.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.databinding:viewbinding:7.2.0] C:\Users\akosi\.gradle\caches\transforms-3\99432332ad367c6cbfd6db3a485cb3ff\transformed\viewbinding-7.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.SimformSolutionsPvtLtd:SSPullToRefresh:1.3] C:\Users\akosi\.gradle\caches\transforms-3\66c639b2588019c59cbdc149f1624ae8\transformed\SSPullToRefresh-1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.SimformSolutionsPvtLtd:SSPullToRefresh:1.3] C:\Users\akosi\.gradle\caches\transforms-3\66c639b2588019c59cbdc149f1624ae8\transformed\SSPullToRefresh-1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.Nikoloutsos:KLoadingSpin:1.1.0] C:\Users\akosi\.gradle\caches\transforms-3\e605dafc0825474e36f99bab36fced6d\transformed\KLoadingSpin-1.1.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.Nikoloutsos:KLoadingSpin:1.1.0] C:\Users\akosi\.gradle\caches\transforms-3\e605dafc0825474e36f99bab36fced6d\transformed\KLoadingSpin-1.1.0\AndroidManifest.xml:7:5-9:41
 MERGED from [com.android.volley:volley:1.2.1] C:\Users\akosi\.gradle\caches\transforms-3\1c3795332269bd05ed6ed83bf24cb816\transformed\volley-1.2.1\AndroidManifest.xml:5:5-43
 MERGED from [com.android.volley:volley:1.2.1] C:\Users\akosi\.gradle\caches\transforms-3\1c3795332269bd05ed6ed83bf24cb816\transformed\volley-1.2.1\AndroidManifest.xml:5:5-43
 MERGED from [androidx.navigation:navigation-ui:2.3.5] C:\Users\akosi\.gradle\caches\transforms-3\0f0fbf775d2f037af7b3845fb4a0fd7d\transformed\navigation-ui-2.3.5\AndroidManifest.xml:20:5-22:41
@@ -173,6 +185,8 @@ MERGED from [com.google.android.material:material:1.6.0] C:\Users\akosi\.gradle\
 MERGED from [com.google.android.material:material:1.6.0] C:\Users\akosi\.gradle\caches\transforms-3\1217d3aa52fa78bda9a0244b3a55003a\transformed\material-1.6.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] C:\Users\akosi\.gradle\caches\transforms-3\d3afed95d73ad065506e7f132d41fe44\transformed\constraintlayout-2.1.3\AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] C:\Users\akosi\.gradle\caches\transforms-3\d3afed95d73ad065506e7f132d41fe44\transformed\constraintlayout-2.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.airbnb.android:lottie:3.7.0] C:\Users\akosi\.gradle\caches\transforms-3\74b5b6e70500f7fc84dc2da7c3125182\transformed\lottie-3.7.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.airbnb.android:lottie:3.7.0] C:\Users\akosi\.gradle\caches\transforms-3\74b5b6e70500f7fc84dc2da7c3125182\transformed\lottie-3.7.0\AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.appcompat:appcompat:1.4.1] C:\Users\akosi\.gradle\caches\transforms-3\3b1bc201b3bca652ca8cba6f27421397\transformed\appcompat-1.4.1\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.appcompat:appcompat:1.4.1] C:\Users\akosi\.gradle\caches\transforms-3\3b1bc201b3bca652ca8cba6f27421397\transformed\appcompat-1.4.1\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.3.1] C:\Users\akosi\.gradle\caches\transforms-3\a8a75cc2b59e6aa4d94cee42b578826d\transformed\lifecycle-livedata-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
@@ -181,6 +195,8 @@ MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] C:\Users\akosi\.g
 MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] C:\Users\akosi\.gradle\caches\transforms-3\df27715f312649c846853da660830c5b\transformed\lifecycle-viewmodel-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.navigation:navigation-fragment:2.3.5] C:\Users\akosi\.gradle\caches\transforms-3\1579921054881926cc2d43aab9bdff04\transformed\navigation-fragment-2.3.5\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.navigation:navigation-fragment:2.3.5] C:\Users\akosi\.gradle\caches\transforms-3\1579921054881926cc2d43aab9bdff04\transformed\navigation-fragment-2.3.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.5.0] C:\Users\akosi\.gradle\caches\transforms-3\722cb1b906ed77e874cd38393f987c64\transformed\core-ktx-1.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.5.0] C:\Users\akosi\.gradle\caches\transforms-3\722cb1b906ed77e874cd38393f987c64\transformed\core-ktx-1.5.0\AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\akosi\.gradle\caches\transforms-3\b4968bffc4d4c41b057d435a194dfa3f\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\akosi\.gradle\caches\transforms-3\b4968bffc4d4c41b057d435a194dfa3f\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\akosi\.gradle\caches\transforms-3\08be5f2811952d88fdbd324236b15817\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
@@ -257,8 +273,12 @@ MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\User
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\akosi\.gradle\caches\transforms-3\01bc8368ad5575d4d6f30c21d182f95c\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.print:print:1.0.0] C:\Users\akosi\.gradle\caches\transforms-3\72f1940f015bcc005a737b3aab30d906\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.print:print:1.0.0] C:\Users\akosi\.gradle\caches\transforms-3\72f1940f015bcc005a737b3aab30d906\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.22] C:\Users\akosi\.gradle\caches\transforms-3\3b3243f749003e89bbbbaaa1195e1894\transformed\android-gif-drawable-1.2.22\AndroidManifest.xml:5:5-7:41
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.22] C:\Users\akosi\.gradle\caches\transforms-3\3b3243f749003e89bbbbaaa1195e1894\transformed\android-gif-drawable-1.2.22\AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\akosi\.gradle\caches\transforms-3\e36aaea95b1e10850d139e7025f21ff0\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\akosi\.gradle\caches\transforms-3\e36aaea95b1e10850d139e7025f21ff0\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [pl.droidsonroids.relinker:relinker:1.4.1] C:\Users\akosi\.gradle\caches\transforms-3\a74d7db3ed6a44566780a299d0185364\transformed\relinker-1.4.1\AndroidManifest.xml:5:5-43
+MERGED from [pl.droidsonroids.relinker:relinker:1.4.1] C:\Users\akosi\.gradle\caches\transforms-3\a74d7db3ed6a44566780a299d0185364\transformed\relinker-1.4.1\AndroidManifest.xml:5:5-43
 INJECTED from F:\CondoApp\app\src\main\AndroidManifest.xml
 INJECTED from F:\CondoApp\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion

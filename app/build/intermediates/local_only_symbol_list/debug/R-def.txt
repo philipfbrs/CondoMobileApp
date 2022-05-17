@@ -27,6 +27,7 @@ drawable round_button_bg
 drawable round_plaintext_bg
 drawable round_plaintext_bg_with_stroke
 drawable side_nav_bar
+id KLoadingSpin
 id announcement
 id announcement_activity_back
 id announcement_activity_date
@@ -45,6 +46,7 @@ id editTextTextPersonName1
 id fab
 id imageView
 id imageView2
+id incident_report_lv
 id login_btn
 id main_email
 id main_name
@@ -59,6 +61,8 @@ id password
 id password_lbl
 id qrcode
 id relativeLayout1
+id ssPullRefresh
+id ssRefreshIncident
 id submit_btn_create_incident_report
 id textView2
 id textView3

@@ -13,6 +13,7 @@ import androidx.annotation.Nullable;
 import androidx.viewbinding.ViewBinding;
 import androidx.viewbinding.ViewBindings;
 import com.example.condoapp.R;
+import com.example.kloadingspin.KLoadingSpin;
 import java.lang.NullPointerException;
 import java.lang.Override;
 import java.lang.String;
@@ -20,6 +21,9 @@ import java.lang.String;
 public final class FragmentLoginBinding implements ViewBinding {
   @NonNull
   private final RelativeLayout rootView;
+
+  @NonNull
+  public final KLoadingSpin KLoadingSpin;
 
   @NonNull
   public final Button loginBtn;
@@ -39,10 +43,11 @@ public final class FragmentLoginBinding implements ViewBinding {
   @NonNull
   public final EditText username;
 
-  private FragmentLoginBinding(@NonNull RelativeLayout rootView, @NonNull Button loginBtn,
-      @NonNull EditText password, @NonNull TextView passwordLbl, @NonNull TextView textView2,
-      @NonNull TextView userLbl, @NonNull EditText username) {
+  private FragmentLoginBinding(@NonNull RelativeLayout rootView, @NonNull KLoadingSpin KLoadingSpin,
+      @NonNull Button loginBtn, @NonNull EditText password, @NonNull TextView passwordLbl,
+      @NonNull TextView textView2, @NonNull TextView userLbl, @NonNull EditText username) {
     this.rootView = rootView;
+    this.KLoadingSpin = KLoadingSpin;
     this.loginBtn = loginBtn;
     this.password = password;
     this.passwordLbl = passwordLbl;
@@ -78,6 +83,12 @@ public final class FragmentLoginBinding implements ViewBinding {
     // This is done to optimize the compiled bytecode for size and performance.
     int id;
     missingId: {
+      id = R.id.KLoadingSpin;
+      KLoadingSpin KLoadingSpin = ViewBindings.findChildViewById(rootView, id);
+      if (KLoadingSpin == null) {
+        break missingId;
+      }
+
       id = R.id.login_btn;
       Button loginBtn = ViewBindings.findChildViewById(rootView, id);
       if (loginBtn == null) {
@@ -114,8 +125,8 @@ public final class FragmentLoginBinding implements ViewBinding {
         break missingId;
       }
 
-      return new FragmentLoginBinding((RelativeLayout) rootView, loginBtn, password, passwordLbl,
-          textView2, userLbl, username);
+      return new FragmentLoginBinding((RelativeLayout) rootView, KLoadingSpin, loginBtn, password,
+          passwordLbl, textView2, userLbl, username);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

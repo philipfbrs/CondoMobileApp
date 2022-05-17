@@ -1,20 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".fragment.login.LoginFragment">
-<!--    <com.example.kloadingspin.KLoadingSpin-->
-<!--        android:id="@+id/KLoadingSpin"-->
-<!--        android:layout_width="match_parent"-->
-<!--        android:layout_height="match_parent"-->
-<!--        android:backgroundColor="#55008DFF"-->
-<!--        android:primarySpinnerColor="#ffffff"-->
-<!--        android:rotationSpeedInMs="3000"-->
-<!--        android:text="Searching for the best \n donut for you..."-->
-<!--        android:secondarySpinnerColor="#FF9800"-->
-<!--        android:textColor="#ffffff"-->
-<!--        android:textSize="80dp" />-->
+
+    <com.example.kloadingspin.KLoadingSpin
+        android:id="@+id/KLoadingSpin"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Searching for the best \n donut for you..."
+        android:textColor="#ffffff"
+        android:textSize="80sp"
+        app:backgroundColor="#55939393"
+        app:primarySpinnerColor="#ffffff"
+        app:rotationSpeedInMs="3000"
+        app:secondarySpinnerColor="@color/teal_700" />
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -97,6 +99,7 @@
                     android:ems="10"
                     android:inputType="textPersonName"
                     android:padding="4dp"
+                    android:password="true"
                     android:textColor="@color/black"
                     android:textSize="24sp" />
             </LinearLayout>

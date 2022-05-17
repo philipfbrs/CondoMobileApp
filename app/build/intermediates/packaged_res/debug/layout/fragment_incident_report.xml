@@ -1,6 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".fragment.main.IncidentReportFragment"/>
+    android:orientation="vertical"
+    tools:context=".fragment.main.IncidentReportFragment">
+
+    <com.simform.refresh.SSPullToRefreshLayout
+        android:id="@+id/ssRefreshIncident"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ListView
+            android:padding="2dp"
+            android:id="@+id/incident_report_lv"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:divider="@null"
+            tools:listitem="@layout/announcement_log">
+        </ListView>
+    </com.simform.refresh.SSPullToRefreshLayout>
+</LinearLayout>

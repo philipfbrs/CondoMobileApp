@@ -4,25 +4,38 @@ package com.example.condoapp.databinding;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.ScrollView;
+import android.widget.LinearLayout;
+import android.widget.ListView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.viewbinding.ViewBinding;
+import androidx.viewbinding.ViewBindings;
 import com.example.condoapp.R;
+import com.simform.refresh.SSPullToRefreshLayout;
 import java.lang.NullPointerException;
 import java.lang.Override;
+import java.lang.String;
 
 public final class FragmentIncidentReportBinding implements ViewBinding {
   @NonNull
-  private final ScrollView rootView;
+  private final LinearLayout rootView;
 
-  private FragmentIncidentReportBinding(@NonNull ScrollView rootView) {
+  @NonNull
+  public final ListView incidentReportLv;
+
+  @NonNull
+  public final SSPullToRefreshLayout ssRefreshIncident;
+
+  private FragmentIncidentReportBinding(@NonNull LinearLayout rootView,
+      @NonNull ListView incidentReportLv, @NonNull SSPullToRefreshLayout ssRefreshIncident) {
     this.rootView = rootView;
+    this.incidentReportLv = incidentReportLv;
+    this.ssRefreshIncident = ssRefreshIncident;
   }
 
   @Override
   @NonNull
-  public ScrollView getRoot() {
+  public LinearLayout getRoot() {
     return rootView;
   }
 
@@ -43,10 +56,26 @@ public final class FragmentIncidentReportBinding implements ViewBinding {
 
   @NonNull
   public static FragmentIncidentReportBinding bind(@NonNull View rootView) {
-    if (rootView == null) {
-      throw new NullPointerException("rootView");
-    }
+    // The body of this method is generated in a way you would not otherwise write.
+    // This is done to optimize the compiled bytecode for size and performance.
+    int id;
+    missingId: {
+      id = R.id.incident_report_lv;
+      ListView incidentReportLv = ViewBindings.findChildViewById(rootView, id);
+      if (incidentReportLv == null) {
+        break missingId;
+      }
 
-    return new FragmentIncidentReportBinding((ScrollView) rootView);
+      id = R.id.ssRefreshIncident;
+      SSPullToRefreshLayout ssRefreshIncident = ViewBindings.findChildViewById(rootView, id);
+      if (ssRefreshIncident == null) {
+        break missingId;
+      }
+
+      return new FragmentIncidentReportBinding((LinearLayout) rootView, incidentReportLv,
+          ssRefreshIncident);
+    }
+    String missingId = rootView.getResources().getResourceName(id);
+    throw new NullPointerException("Missing required view with ID: ".concat(missingId));
   }
 }
